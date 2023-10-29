@@ -1,3 +1,5 @@
 literatura/
 .ipynb_checkpoints/
 .venv
+sources.ipynb
+.gitignore
