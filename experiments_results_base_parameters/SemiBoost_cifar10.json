@@ -1,0 +1,14 @@
+{
+    "date": "2023-11-17 19:27:53",
+    "algorithm": "SemiBoost",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier()}",
+    "results": {
+        "accuracy": 0.5105,
+        "precision": 0.5054095826893354,
+        "recall": 0.981,
+        "f1_score": 0.6671200272016321,
+        "time": 529.4417750835419
+    }
+}

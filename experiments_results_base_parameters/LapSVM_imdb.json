@@ -1,0 +1,14 @@
+{
+    "date": "2023-11-18 06:27:24",
+    "algorithm": "LapSVM",
+    "dataset": "imdb",
+    "labeled_size": 0.3,
+    "hyperparameters": "{}",
+    "results": {
+        "accuracy": 0.5,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1_score": 0.6666666666666666,
+        "time": 20792.75775194168
+    }
+}

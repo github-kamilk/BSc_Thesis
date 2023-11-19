@@ -1,0 +1,14 @@
+{
+    "date": "2023-11-18 00:20:39",
+    "algorithm": "SemiBoost",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier()}",
+    "results": {
+        "accuracy": 0.8245614035087719,
+        "precision": 0.7802197802197802,
+        "recall": 1.0,
+        "f1_score": 0.8765432098765432,
+        "time": 19.36101007461548
+    }
+}

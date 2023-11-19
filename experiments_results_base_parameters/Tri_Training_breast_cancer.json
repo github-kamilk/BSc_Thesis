@@ -1,0 +1,14 @@
+{
+    "date": "2023-11-17 16:19:29",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results": {
+        "accuracy": 0.9649122807017544,
+        "precision": 0.958904109589041,
+        "recall": 0.9859154929577465,
+        "f1_score": 0.9722222222222222,
+        "time": 0.5451300144195557
+    }
+}

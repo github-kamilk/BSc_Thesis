@@ -1,0 +1,14 @@
+{
+    "date": "2023-11-18 00:40:11",
+    "algorithm": "LapSVM",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{}",
+    "results": {
+        "accuracy": 0.5,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1_score": 0.6666666666666666,
+        "time": 1170.3070311546326
+    }
+}
