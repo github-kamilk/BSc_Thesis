@@ -1,0 +1,120 @@
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Testing model
+cifar10 Results: {'accuracy': 0.62, 'precision': 0.6330376940133038, 'recall': 0.571, 'f1_score': 0.6004206098843323, 'time': 788.1202430725098}
+
+Alghoritm: Assemble
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Testing model
+imdb Results: {'accuracy': 0.80312, 'precision': 0.7929941231054748, 'recall': 0.8204, 'f1_score': 0.8064642969487261, 'time': 2463.1117351055145}
+
+Alghoritm: Assemble
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Testing model
+breast_cancer Results: {'accuracy': 0.9649122807017544, 'precision': 0.958904109589041, 'recall': 0.9859154929577465, 'f1_score': 0.9722222222222222, 'time': 26.046395778656006}
+
+Alghoritm: SemiBoost
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Testing model
+cifar10 Results: {'accuracy': 0.5075, 'precision': 0.5038600102933608, 'recall': 0.979, 'f1_score': 0.6653075093442066, 'time': 539.721999168396}
+
+Alghoritm: SemiBoost
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Testing model
+imdb Results: {'accuracy': 0.50116, 'precision': 0.5005806735813544, 'recall': 1.0, 'f1_score': 0.6671826212270823, 'time': 7333.191420793533}
+
+Alghoritm: SemiBoost
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Testing model
+breast_cancer Results: {'accuracy': 0.9473684210526315, 'precision': 0.922077922077922, 'recall': 1.0, 'f1_score': 0.9594594594594594, 'time': 6.788585186004639}
+
+Alghoritm: LapSVM
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Testing model
+cifar10 Results: {'accuracy': 0.5035, 'precision': 0.5017884517118038, 'recall': 0.982, 'f1_score': 0.6641866756848157, 'time': 15196.105307340622}
+
+Alghoritm: LapSVM
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Testing model
+imdb Results: {'accuracy': 0.5, 'precision': 0.5, 'recall': 1.0, 'f1_score': 0.6666666666666666, 'time': 21324.20876264572}
+
+Alghoritm: LapSVM
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Testing model
+breast_cancer Results: {'accuracy': 0.9736842105263158, 'precision': 0.9722222222222222, 'recall': 0.9859154929577465, 'f1_score': 0.979020979020979, 'time': 0.42466187477111816}
+
+Alghoritm: LabelPropagation
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Testing model
+cifar10 Results: {'accuracy': 0.551, 'precision': 0.5631188118811881, 'recall': 0.455, 'f1_score': 0.5033185840707964, 'time': 2.8044044971466064}
+
+Alghoritm: LabelPropagation
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Testing model
+imdb Results: {'accuracy': 0.73032, 'precision': 0.6804336926548007, 'recall': 0.86856, 'f1_score': 0.7630728141692438, 'time': 18.59243416786194}
+
+Alghoritm: LabelPropagation
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Testing model
+breast_cancer Results: {'accuracy': 0.9210526315789473, 'precision': 0.918918918918919, 'recall': 0.9577464788732394, 'f1_score': 0.9379310344827587, 'time': 0.2603952884674072}
+
