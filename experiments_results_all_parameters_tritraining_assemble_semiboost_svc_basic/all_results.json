@@ -1,0 +1,191 @@
+{
+    "date": "2023-11-27 15:32:48",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': SVC(gamma='auto', probability=True), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.735,
+        "train_precision": 0.7342192691029901,
+        "train_recall": 0.7366666666666667,
+        "train_f1_score": 0.7354409317803661
+    },
+    "results_test": {
+        "test_accuracy": 0.6165,
+        "test_precision": 0.6156901688182721,
+        "test_recall": 0.62,
+        "test_f1_score": 0.6178375685102142,
+        "training_time": 278.6452920436859
+    }
+}{
+    "date": "2023-11-27 16:46:12",
+    "algorithm": "Tri_Training",
+    "dataset": "imdb",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': SVC(gamma='auto', probability=True), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9006666666666666,
+        "train_precision": 0.9467737139458816,
+        "train_recall": 0.8490666666666666,
+        "train_f1_score": 0.895262195979193
+    },
+    "results_test": {
+        "test_accuracy": 0.81552,
+        "test_precision": 0.8668154761904762,
+        "test_recall": 0.7456,
+        "test_f1_score": 0.8016514708412179,
+        "training_time": 3036.9569742679596
+    }
+}{
+    "date": "2023-11-27 16:46:13",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': SVC(gamma='auto', probability=True), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9779411764705882,
+        "train_precision": 0.9659090909090909,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9826589595375723
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.356997013092041
+    }
+}{
+    "date": "2023-11-27 17:04:42",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': SVC(gamma='auto', probability=True), 'T': 3}",
+    "results_train": {
+        "train_accuracy": 0.8336666666666667,
+        "train_precision": 0.8473282442748091,
+        "train_recall": 0.814,
+        "train_f1_score": 0.8303298197891874
+    },
+    "results_test": {
+        "test_accuracy": 0.634,
+        "test_precision": 0.6466083150984683,
+        "test_recall": 0.591,
+        "test_f1_score": 0.6175548589341693,
+        "training_time": 997.2397241592407
+    }
+}{
+    "date": "2023-11-27 17:59:38",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': SVC(gamma='auto', probability=True), 'T': 10}",
+    "results_train": {
+        "train_accuracy": 0.7173333333333334,
+        "train_precision": 0.7369186046511628,
+        "train_recall": 0.676,
+        "train_f1_score": 0.7051460361613352
+    },
+    "results_test": {
+        "test_accuracy": 0.6215,
+        "test_precision": 0.6316359696641387,
+        "test_recall": 0.583,
+        "test_f1_score": 0.6063442537701509,
+        "training_time": 3098.588956594467
+    }
+}{
+    "date": "2023-11-28 06:19:04",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': SVC(gamma='auto', probability=True), 'T': 50}",
+    "results_train": {
+        "train_accuracy": 0.7646666666666667,
+        "train_precision": 0.793205317577548,
+        "train_recall": 0.716,
+        "train_f1_score": 0.7526278906797477
+    },
+    "results_test": {
+        "test_accuracy": 0.6255,
+        "test_precision": 0.6405375139977604,
+        "test_recall": 0.572,
+        "test_f1_score": 0.6043317485472794,
+        "training_time": 43340.87567925453
+    }
+}{
+    "date": "2023-11-28 09:44:54",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': SVC(gamma='auto', max_iter=10000, probability=True), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.7286666666666667,
+        "train_precision": 0.7271523178807947,
+        "train_recall": 0.732,
+        "train_f1_score": 0.7295681063122924
+    },
+    "results_test": {
+        "test_accuracy": 0.6165,
+        "test_precision": 0.6166166166166166,
+        "test_recall": 0.616,
+        "test_f1_score": 0.6163081540770384,
+        "training_time": 260.6594090461731
+    }
+}{
+    "date": "2023-11-28 11:02:13",
+    "algorithm": "Tri_Training",
+    "dataset": "imdb",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': SVC(gamma='auto', max_iter=10000, probability=True), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.892,
+        "train_precision": 0.8516746411483254,
+        "train_recall": 0.9493333333333334,
+        "train_f1_score": 0.8978562421185372
+    },
+    "results_test": {
+        "test_accuracy": 0.81936,
+        "test_precision": 0.7905385735080058,
+        "test_recall": 0.86896,
+        "test_f1_score": 0.8278963414634146,
+        "training_time": 3373.6766786575317
+    }
+}{
+    "date": "2023-11-28 11:02:13",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': SVC(gamma='auto', max_iter=10000, probability=True), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9779411764705882,
+        "train_precision": 0.9659090909090909,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9826589595375723
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.3703286647796631
+    }
+}{
+    "date": "2023-11-28 11:22:43",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': SVC(gamma='auto', max_iter=10000, probability=True), 'T': 3}",
+    "results_train": {
+        "train_accuracy": 0.8516666666666667,
+        "train_precision": 0.8645473393227368,
+        "train_recall": 0.834,
+        "train_f1_score": 0.8489989820156091
+    },
+    "results_test": {
+        "test_accuracy": 0.6355,
+        "test_precision": 0.6497237569060773,
+        "test_recall": 0.588,
+        "test_f1_score": 0.6173228346456693,
+        "training_time": 1103.9872868061066
+    }
+}
