@@ -1,0 +1,96 @@
+{
+    "date": "2023-11-28 12:16:16",
+    "algorithm": "LinearSVC",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'max_iter': 10000}",
+    "results_train": {
+        "train_accuracy": 0.7913333333333333,
+        "train_precision": 0.7940780619111709,
+        "train_recall": 0.7866666666666666,
+        "train_f1_score": 0.7903549899531145
+    },
+    "results_test": {
+        "test_accuracy": 0.534,
+        "test_precision": 0.533203125,
+        "test_recall": 0.546,
+        "test_f1_score": 0.5395256916996048,
+        "training_time": 62.24715065956116
+    }
+}{
+    "date": "2023-11-28 12:18:30",
+    "algorithm": "LinearSVC",
+    "dataset": "cifar10",
+    "labeled_size": 0.5,
+    "hyperparameters": "{'max_iter': 10000}",
+    "results_train": {
+        "train_accuracy": 0.7204,
+        "train_precision": 0.7230769230769231,
+        "train_recall": 0.7144,
+        "train_f1_score": 0.7187122736418512
+    },
+    "results_test": {
+        "test_accuracy": 0.557,
+        "test_precision": 0.5557729941291585,
+        "test_recall": 0.568,
+        "test_f1_score": 0.5618199802176064,
+        "training_time": 132.99255084991455
+    }
+}{
+    "date": "2023-11-28 12:21:29",
+    "algorithm": "LinearSVC",
+    "dataset": "cifar10",
+    "labeled_size": 0.7,
+    "hyperparameters": "{'max_iter': 10000}",
+    "results_train": {
+        "train_accuracy": 0.6878571428571428,
+        "train_precision": 0.6861024624964619,
+        "train_recall": 0.6925714285714286,
+        "train_f1_score": 0.6893217688042087
+    },
+    "results_test": {
+        "test_accuracy": 0.5665,
+        "test_precision": 0.5650048875855328,
+        "test_recall": 0.578,
+        "test_f1_score": 0.5714285714285714,
+        "training_time": 177.0557849407196
+    }
+}{
+    "date": "2023-11-28 12:25:44",
+    "algorithm": "LinearSVC",
+    "dataset": "cifar10",
+    "labeled_size": 0.9,
+    "hyperparameters": "{'max_iter': 10000}",
+    "results_train": {
+        "train_accuracy": 0.6706666666666666,
+        "train_precision": 0.6699867197875166,
+        "train_recall": 0.6726666666666666,
+        "train_f1_score": 0.6713240186294078
+    },
+    "results_test": {
+        "test_accuracy": 0.5585,
+        "test_precision": 0.5570731707317074,
+        "test_recall": 0.571,
+        "test_f1_score": 0.5639506172839506,
+        "training_time": 254.70888471603394
+    }
+}{
+    "date": "2023-11-28 12:30:06",
+    "algorithm": "LinearSVC",
+    "dataset": "cifar10",
+    "labeled_size": 1.0,
+    "hyperparameters": "{'max_iter': 10000}",
+    "results_train": {
+        "train_accuracy": 0.665,
+        "train_precision": 0.6631724683544303,
+        "train_recall": 0.6706,
+        "train_f1_score": 0.6668655529037391
+    },
+    "results_test": {
+        "test_accuracy": 0.56,
+        "test_precision": 0.5581395348837209,
+        "test_recall": 0.576,
+        "test_f1_score": 0.5669291338582677,
+        "training_time": 260.70814657211304
+    }
+}

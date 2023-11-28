@@ -1,0 +1,96 @@
+{
+    "date": "2023-11-28 12:08:22",
+    "algorithm": "RandomForestClassifier",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_test": {
+        "test_accuracy": 0.6495,
+        "test_precision": 0.6578669482576558,
+        "test_recall": 0.623,
+        "test_f1_score": 0.6399589111453519,
+        "training_time": 6.797262191772461
+    }
+}{
+    "date": "2023-11-28 12:08:36",
+    "algorithm": "RandomForestClassifier",
+    "dataset": "cifar10",
+    "labeled_size": 0.5,
+    "hyperparameters": "{}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_test": {
+        "test_accuracy": 0.6355,
+        "test_precision": 0.6464864864864864,
+        "test_recall": 0.598,
+        "test_f1_score": 0.6212987012987014,
+        "training_time": 11.824975967407227
+    }
+}{
+    "date": "2023-11-28 12:08:54",
+    "algorithm": "RandomForestClassifier",
+    "dataset": "cifar10",
+    "labeled_size": 0.7,
+    "hyperparameters": "{}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_test": {
+        "test_accuracy": 0.649,
+        "test_precision": 0.6565126050420168,
+        "test_recall": 0.625,
+        "test_f1_score": 0.6403688524590164,
+        "training_time": 17.098824501037598
+    }
+}{
+    "date": "2023-11-28 12:09:19",
+    "algorithm": "RandomForestClassifier",
+    "dataset": "cifar10",
+    "labeled_size": 0.9,
+    "hyperparameters": "{}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_test": {
+        "test_accuracy": 0.664,
+        "test_precision": 0.6826280623608018,
+        "test_recall": 0.613,
+        "test_f1_score": 0.6459430979978925,
+        "training_time": 22.641290187835693
+    }
+}{
+    "date": "2023-11-28 12:09:46",
+    "algorithm": "RandomForestClassifier",
+    "dataset": "cifar10",
+    "labeled_size": 1.0,
+    "hyperparameters": "{}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_test": {
+        "test_accuracy": 0.6605,
+        "test_precision": 0.6723952738990333,
+        "test_recall": 0.626,
+        "test_f1_score": 0.6483687208700155,
+        "training_time": 25.252100706100464
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "date": "2023-11-28 12:34:55",
+    "algorithm": "SVC",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'C': 1.0, 'kernel': 'rbf', 'probability': True, 'gamma': 'auto'}",
+    "results_train": {
+        "train_accuracy": 0.838,
+        "train_precision": 0.8434959349593496,
+        "train_recall": 0.83,
+        "train_f1_score": 0.8366935483870969
+    },
+    "results_test": {
+        "test_accuracy": 0.636,
+        "test_precision": 0.6382113821138211,
+        "test_recall": 0.628,
+        "test_f1_score": 0.6330645161290321,
+        "training_time": 16.438021898269653
+    }
+}{
+    "date": "2023-11-28 12:36:36",
+    "algorithm": "SVC",
+    "dataset": "cifar10",
+    "labeled_size": 0.5,
+    "hyperparameters": "{'C': 1.0, 'kernel': 'rbf', 'probability': True, 'gamma': 'auto'}",
+    "results_train": {
+        "train_accuracy": 0.8164,
+        "train_precision": 0.8298582151793161,
+        "train_recall": 0.796,
+        "train_f1_score": 0.8125765618619846
+    },
+    "results_test": {
+        "test_accuracy": 0.6355,
+        "test_precision": 0.6424815983175605,
+        "test_recall": 0.611,
+        "test_f1_score": 0.6263454638646847,
+        "training_time": 54.53380823135376
+    }
+}{
+    "date": "2023-11-28 12:40:52",
+    "algorithm": "SVC",
+    "dataset": "cifar10",
+    "labeled_size": 0.7,
+    "hyperparameters": "{'C': 1.0, 'kernel': 'rbf', 'probability': True, 'gamma': 'auto'}",
+    "results_train": {
+        "train_accuracy": 0.8068571428571428,
+        "train_precision": 0.8183165382335507,
+        "train_recall": 0.7888571428571428,
+        "train_f1_score": 0.8033168460867034
+    },
+    "results_test": {
+        "test_accuracy": 0.645,
+        "test_precision": 0.6494845360824743,
+        "test_recall": 0.63,
+        "test_f1_score": 0.6395939086294417,
+        "training_time": 145.26416063308716
+    }
+}{
+    "date": "2023-11-28 12:48:00",
+    "algorithm": "SVC",
+    "dataset": "cifar10",
+    "labeled_size": 0.9,
+    "hyperparameters": "{'C': 1.0, 'kernel': 'rbf', 'probability': True, 'gamma': 'auto'}",
+    "results_train": {
+        "train_accuracy": 0.798,
+        "train_precision": 0.8117154811715481,
+        "train_recall": 0.776,
+        "train_f1_score": 0.7934560327198364
+    },
+    "results_test": {
+        "test_accuracy": 0.6555,
+        "test_precision": 0.6624869383490073,
+        "test_recall": 0.634,
+        "test_f1_score": 0.6479305058763414,
+        "training_time": 273.8938684463501
+    }
+}{
+    "date": "2023-11-28 12:56:56",
+    "algorithm": "SVC",
+    "dataset": "cifar10",
+    "labeled_size": 1.0,
+    "hyperparameters": "{'C': 1.0, 'kernel': 'rbf', 'probability': True, 'gamma': 'auto'}",
+    "results_train": {
+        "train_accuracy": 0.8008,
+        "train_precision": 0.8135946622185154,
+        "train_recall": 0.7804,
+        "train_f1_score": 0.7966516945692119
+    },
+    "results_test": {
+        "test_accuracy": 0.654,
+        "test_precision": 0.6594202898550725,
+        "test_recall": 0.637,
+        "test_f1_score": 0.6480162767039674,
+        "training_time": 357.95909237861633
+    }
+}

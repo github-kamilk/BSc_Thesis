@@ -1,0 +1,96 @@
+{
+    "date": "2023-11-28 12:32:57",
+    "algorithm": "KNeighborsClassifier",
+    "dataset": "imdb",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'n_neighbors': 5}",
+    "results_train": {
+        "train_accuracy": 0.7986666666666666,
+        "train_precision": 0.7855685874553799,
+        "train_recall": 0.8216,
+        "train_f1_score": 0.8031803962460896
+    },
+    "results_test": {
+        "test_accuracy": 0.6808,
+        "test_precision": 0.6763420724094882,
+        "test_recall": 0.69344,
+        "test_f1_score": 0.6847843261178702,
+        "training_time": 0.00718379020690918
+    }
+}{
+    "date": "2023-11-28 12:33:14",
+    "algorithm": "KNeighborsClassifier",
+    "dataset": "imdb",
+    "labeled_size": 0.5,
+    "hyperparameters": "{'n_neighbors': 5}",
+    "results_train": {
+        "train_accuracy": 0.80072,
+        "train_precision": 0.7804805252947321,
+        "train_recall": 0.8368,
+        "train_f1_score": 0.8076596401822252
+    },
+    "results_test": {
+        "test_accuracy": 0.67988,
+        "test_precision": 0.6698904420098224,
+        "test_recall": 0.70928,
+        "test_f1_score": 0.6890227316883623,
+        "training_time": 0.009700298309326172
+    }
+}{
+    "date": "2023-11-28 12:33:34",
+    "algorithm": "KNeighborsClassifier",
+    "dataset": "imdb",
+    "labeled_size": 0.7,
+    "hyperparameters": "{'n_neighbors': 5}",
+    "results_train": {
+        "train_accuracy": 0.7996571428571428,
+        "train_precision": 0.771147880041365,
+        "train_recall": 0.8522285714285714,
+        "train_f1_score": 0.8096634093376764
+    },
+    "results_test": {
+        "test_accuracy": 0.68268,
+        "test_precision": 0.6654350503513728,
+        "test_recall": 0.7348,
+        "test_f1_score": 0.69839942211915,
+        "training_time": 0.015016317367553711
+    }
+}{
+    "date": "2023-11-28 12:33:58",
+    "algorithm": "KNeighborsClassifier",
+    "dataset": "imdb",
+    "labeled_size": 0.9,
+    "hyperparameters": "{'n_neighbors': 5}",
+    "results_train": {
+        "train_accuracy": 0.8075111111111111,
+        "train_precision": 0.7842412291512612,
+        "train_recall": 0.8484444444444444,
+        "train_f1_score": 0.8150804833269287
+    },
+    "results_test": {
+        "test_accuracy": 0.6858,
+        "test_precision": 0.6717952511280421,
+        "test_recall": 0.72656,
+        "test_f1_score": 0.6981052307928822,
+        "training_time": 0.018311738967895508
+    }
+}{
+    "date": "2023-11-28 12:34:22",
+    "algorithm": "KNeighborsClassifier",
+    "dataset": "imdb",
+    "labeled_size": 1.0,
+    "hyperparameters": "{'n_neighbors': 5}",
+    "results_train": {
+        "train_accuracy": 0.80672,
+        "train_precision": 0.7782697053273334,
+        "train_recall": 0.85784,
+        "train_f1_score": 0.8161199482456808
+    },
+    "results_test": {
+        "test_accuracy": 0.68352,
+        "test_precision": 0.6653214182761603,
+        "test_recall": 0.73856,
+        "test_f1_score": 0.700030330603579,
+        "training_time": 0.021062850952148438
+    }
+}
