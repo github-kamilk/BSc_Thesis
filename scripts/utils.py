@@ -9,8 +9,8 @@ from sklearn.svm import LinearSVC
 from sklearn.naive_bayes import GaussianNB
 
 
-def split_labeled_unlabeled(X, y, labeled_size):
-    X_labeled, X_unlabeled, y_labeled, _ = train_test_split(X, y, train_size=labeled_size, random_state=42, stratify=y)
+def split_labeled_unlabeled(X, y, labeled_size, random_state=42):
+    X_labeled, X_unlabeled, y_labeled, _ = train_test_split(X, y, train_size=labeled_size, random_state=random_state, stratify=y)
     return X_labeled, y_labeled, X_unlabeled
 
 
