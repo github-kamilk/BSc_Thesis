@@ -1,0 +1,20 @@
+{
+    "date": "2023-12-05 02:46:45",
+    "algorithm": "Assemble",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_test": {
+        "test_accuracy": 0.9385964912280702,
+        "test_precision": 0.9102564102564102,
+        "test_recall": 1.0,
+        "test_f1_score": 0.953020134228188,
+        "training_time": 62.32559084892273
+    }
+}

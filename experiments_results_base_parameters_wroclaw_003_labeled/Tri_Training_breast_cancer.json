@@ -1,0 +1,20 @@
+{
+    "date": "2023-12-05 00:29:48",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_test": {
+        "test_accuracy": 0.9385964912280702,
+        "test_precision": 0.9210526315789473,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9523809523809524,
+        "training_time": 0.25194692611694336
+    }
+}

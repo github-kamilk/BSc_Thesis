@@ -1,0 +1,20 @@
+{
+    "date": "2023-12-05 08:51:54",
+    "algorithm": "SemiBoost",
+    "dataset": "imdb",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier()}",
+    "results_train": {
+        "train_accuracy": 0.9906666666666667,
+        "train_precision": 0.981675392670157,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9907529722589168
+    },
+    "results_test": {
+        "test_accuracy": 0.50004,
+        "test_precision": 0.500020000800032,
+        "test_recall": 1.0,
+        "test_f1_score": 0.6666844449185311,
+        "training_time": 20724.395935297012
+    }
+}
