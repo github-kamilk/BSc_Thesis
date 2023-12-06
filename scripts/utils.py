@@ -6,15 +6,16 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import LinearSVC
+from sklearn.svm import SVC
 from sklearn.naive_bayes import GaussianNB
 
 
 def split_labeled_unlabeled(X, y, labeled_size, random_state=42):
-    X_labeled, X_unlabeled, y_labeled, _ = train_test_split(X, y, train_size=labeled_size, random_state=random_state, stratify=y)
-    return X_labeled, y_labeled, X_unlabeled
+    X_labeled, X_unlabeled, y_labeled, y_unlabeled = train_test_split(X, y, train_size=labeled_size, random_state=random_state, stratify=y)
+    return X_labeled, y_labeled, X_unlabeled, y_unlabeled
 
 
-def save_results(results_train, results_test, model_name, dataset_name, model_params, labeled_size, folder_to_save):
+def save_results(results_train, results_transductive, results_test, model_name, dataset_name, model_params, labeled_size, folder_to_save):
     data_to_save = {
         "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "algorithm": model_name,
@@ -22,6 +23,7 @@ def save_results(results_train, results_test, model_name, dataset_name, model_pa
         'labeled_size': labeled_size,
         "hyperparameters": str(model_params),
         "results_train": results_train,
+        "results_transductive": results_transductive,
         "results_test": results_test
     }
     with open(f"{folder_to_save}/{model_name}_{dataset_name}.json", 'a') as f, open(f"{folder_to_save}/all_results.json", 'a') as g:
@@ -36,6 +38,9 @@ def random_forest_factory():
 
 def linear_svc_factory():
     return LinearSVC(max_iter=10**4)
+
+def svc_factory():
+    return SVC(C=1.0,kernel='rbf',probability=True,gamma='auto')
 
 def gaussianNB_factory():
     return GaussianNB()

@@ -13,7 +13,7 @@ def format_hyperparams_for_filename(hyperparams):
         safe_hyperparams.append(f"{key}_{safe_value}")
     return "_".join(safe_hyperparams)
 
-def train_and_evaluate(model_name, hyperparams, dataset_name, model, X_train, y_train, X_unlabeled, X_test, y_test):
+def train_and_evaluate(model_name, hyperparams, dataset_name, model, X_train, y_train, X_unlabeled, y_unlabeled, X_test, y_test):
     print(f"Training model")
         
     if dataset_name == 'cifar10':
@@ -40,6 +40,9 @@ def train_and_evaluate(model_name, hyperparams, dataset_name, model, X_train, y_
      # Calculating statistics for the training set
     train_results = evaluate_model(model, X_train, y_train, 'train')
 
+     # Calculating statistics for the transductive set
+    transductive_results = evaluate_model(model, X_unlabeled, y_unlabeled, 'transductive')
+
     # Calculating statistics for the test set
     test_results = evaluate_model(model, X_test, y_test, 'test')
     test_results['training_time'] = training_time
@@ -55,4 +58,4 @@ def train_and_evaluate(model_name, hyperparams, dataset_name, model, X_train, y_
     #     print(f"Error during saving model {model_name} with params {hyperparams}: {e}")
 
 
-    return train_results, test_results
+    return train_results, transductive_results, test_results

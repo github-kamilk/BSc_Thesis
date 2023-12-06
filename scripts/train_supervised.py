@@ -52,7 +52,7 @@ def train_model(model_name, model_function, dataset_name, preprocess_function, l
     print(f"Dataset: {dataset_name}")
     X_train, y_train, X_test, y_test = preprocess_function()
     if labeled_size != 1.0:
-        X_labeled, y_labeled, _ = split_labeled_unlabeled(X_train, y_train, labeled_size, random_state=None)
+        X_labeled, y_labeled, _ = split_labeled_unlabeled(X_train, y_train, labeled_size)
     else:
         X_labeled = X_train
         y_labeled = y_train
@@ -88,11 +88,12 @@ if __name__ == "__main__":
                 }
 
     models = {
-            'RandomForestClassifier': RandomForestClassifier
-           # 'DecisionTreeClassifier': DecisionTreeClassifier,
-          #  'LinearSVC': LinearSVC,
-         #   'GaussianNB': GaussianNB,
-        #    'KNeighborsClassifier': KNeighborsClassifier
+            'RandomForestClassifier': RandomForestClassifier,
+            'DecisionTreeClassifier': DecisionTreeClassifier,
+            'LinearSVC': LinearSVC,
+            'GaussianNB': GaussianNB,
+            'KNeighborsClassifier': KNeighborsClassifier,
+            'SVC': SVC
             }
 
     models_hyperparameters = {
@@ -116,22 +117,8 @@ if __name__ == "__main__":
                 }
                 }
     
-    results = {
-        'RandomForestClassifier' : {},
-        'DecisionTreeClassifier' : {},
-        'LinearSVC' : {},
-        'GaussianNB' : {},
-        'KNeighborsClassifier' : {}
-    }
-
-   # labeled_size = 0.3
     folder_to_save_results = "experiments_results_supervised"
     for model_name, model_function in models.items():
         for dataset_name, preprocess_function in datasets.items():
-            for labeled_size in [0.03, 0.05, 0.07, 0.1, 0.15, 0.2, 0.25, 0.3, 0.5, 0.7, 0.9, 1.0]:
-                num_of_iteration = 50 if labeled_size < 0.3 else 10
-                for _ in range(num_of_iteration):
-                    #REMEMBER TO CHANGE RANDOM SEED!!!!!!
-                    train_model(model_name, model_function, dataset_name, preprocess_function, labeled_size, models_hyperparameters, folder_to_save_results)
-
-
+            for labeled_size in [0.01, 0.03, 0.05, 0.07, 0.1, 0.15, 0.2, 0.25]:
+                train_model(model_name, model_function, dataset_name, preprocess_function, labeled_size, models_hyperparameters, folder_to_save_results)

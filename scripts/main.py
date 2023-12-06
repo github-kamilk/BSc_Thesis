@@ -18,23 +18,24 @@ from utils import split_labeled_unlabeled, save_results, knn_factory, random_for
 
 
 def train_model(model_name, model_function, dataset_name, preprocess_function, labeled_size,
-                models_hyperparameters, results):
+                models_hyperparameters, folder_to_save_results):
     print(f"Alghoritm: {model_name}")
     print(f"Dataset: {dataset_name}")
     X_train, y_train, X_test, y_test = preprocess_function()
-    X_labeled, y_labeled, X_unlabeled = split_labeled_unlabeled(X_train, y_train, labeled_size)
+    X_labeled, y_labeled, X_unlabeled, y_unlabeled = split_labeled_unlabeled(X_train, y_train, labeled_size)
     print(f"X_labeled shape: {X_labeled.shape}, X_unlabeled shape: {X_unlabeled.shape}")
     print(f"y_labeled shape: {y_labeled.shape}")
-
+    
     model_params = models_hyperparameters.get(model_name, {})
     model_params = {k: v() if callable(v) else v for k, v in model_params.items()}
     model = model_function(**model_params)
 
-    results[model_name][dataset_name] = train_and_evaluate(dataset_name, model, X_labeled, y_labeled, X_unlabeled, X_test, y_test)    
-    print(f"{dataset_name} Results:", results[model_name][dataset_name])
+    # results[model_name][dataset_name] = train_and_evaluate(dataset_name, model, X_labeled, y_labeled, X_unlabeled, X_test, y_test)    
+    train_results, transductive_results, test_results = train_and_evaluate(model_name, model_params, dataset_name, model, X_labeled, y_labeled, X_unlabeled, y_unlabeled, X_test, y_test)
+    save_results(train_results, transductive_results, test_results, model_name, dataset_name, model_params, labeled_size, folder_to_save_results)
+        
+    print(f"{dataset_name} Results:", test_results)
     print()
-    save_results(results[model_name][dataset_name], model_name, dataset_name, model_params, labeled_size)
-
 
 if __name__ == "__main__":
     datasets = {
@@ -44,7 +45,7 @@ if __name__ == "__main__":
                 }
 
     models = {
-            'Tri_Training' : Tri_Training,
+           'Tri_Training' : Tri_Training,
             'Assemble' : Assemble,
             'SemiBoost' : SemiBoost,
             'LapSVM' : LapSVM,
@@ -67,13 +68,18 @@ if __name__ == "__main__":
                 ,'SemiBoost' : {
                     'base_estimator' : random_forest_factory
                 }
-                ,'LapSVM' : {                  
+                ,'LapSVM' : {        
+                    # 'distance_function' : 'linear',
+                    # 'kernel_function' : 'linear'          
                 }
                 ,'VAT' : {
                 }
                 ,'TSVM' : {
+                    # 'max_iter' : 100
                 }
                 ,'LabelPropagation' : {
+                    # 'kernel' : 'knn',
+                    # 'max_iter' : 1000
                 }
                 ,'TemporalEnsembling' : {
                 }
@@ -82,22 +88,11 @@ if __name__ == "__main__":
                 }
                 }
     
-    results = {
-        'Tri_Training' : {},
-        'Assemble' : {},
-        'SemiBoost' : {},
-        'LapSVM' : {},
-        'VAT' : {},
-        'TSVM' : {},
-        'LabelPropagation' : {},
-        'TemporalEnsembling' : {},
-        'MeanTeacher' : {}
-    }
-
-    labeled_size = 0.3
-
+    labeled_size = 0.03
+    folder_to_save_results = "experiments_results_base_parameters_small_labeled_size"
+    
     for model_name, model_function in models.items():
         for dataset_name, preprocess_function in datasets.items():
-            train_model(model_name, model_function, dataset_name, preprocess_function, labeled_size, models_hyperparameters, results)
+            train_model(model_name, model_function, dataset_name, preprocess_function, labeled_size, models_hyperparameters, folder_to_save_results)
 
 

@@ -19,10 +19,10 @@ def preprocess_cifar10():
     y_test = y_test[mask_test]
     
     # Limit to first 1000 training samples
-    X_train = X_train[:10]
-    y_train = y_train[:10]
-    X_test = X_test[:10]
-    y_test = y_test[:10]
+    # X_train = X_train[:10]
+    # y_train = y_train[:10]
+    # X_test = X_test[:10]
+    # y_test = y_test[:10]
 
     # Change labels to binary
     y_train = np.where(y_train == 3, 0, 1)
@@ -59,10 +59,10 @@ def preprocess_imdb():
     X_test = vectorizer.transform(decoded_test)
     
     # Limit to first 1000 training samples
-    X_train = X_train[:20]
-    y_train = y_train[:20]
-    X_test = X_test[:10]
-    y_test = y_test[:10]
+    # X_train = X_train[:20]
+    # y_train = y_train[:20]
+    # X_test = X_test[:10]
+    # y_test = y_test[:10]
 
     return X_train, y_train, X_test, y_test
 
