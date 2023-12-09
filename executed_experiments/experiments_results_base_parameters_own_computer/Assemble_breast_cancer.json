@@ -1,0 +1,14 @@
+{
+    "date": "2023-11-18 04:09:33",
+    "algorithm": "Assemble",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier()}",
+    "results": {
+        "accuracy": 0.9649122807017544,
+        "precision": 0.958904109589041,
+        "recall": 0.9859154929577465,
+        "f1_score": 0.9722222222222222,
+        "time": 133.76153922080994
+    }
+}

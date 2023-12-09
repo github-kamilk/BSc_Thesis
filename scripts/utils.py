@@ -3,11 +3,12 @@ from sklearn.model_selection import train_test_split
 import json
 
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.naive_bayes import GaussianNB
+from sklearn.svm import LinearSVC
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.svm import LinearSVC
 from sklearn.svm import SVC
-from sklearn.naive_bayes import GaussianNB
+
 
 
 def split_labeled_unlabeled(X, y, labeled_size, random_state=42):

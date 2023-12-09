@@ -1,0 +1,14 @@
+{
+    "date": "2023-11-18 00:38:30",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier()}",
+    "results": {
+        "accuracy": 0.632,
+        "precision": 0.6524249422632794,
+        "recall": 0.565,
+        "f1_score": 0.6055734190782422,
+        "time": 3931.0982387065887
+    }
+}

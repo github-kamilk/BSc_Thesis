@@ -1,0 +1,40 @@
+{
+    "date": "2023-11-15 23:48:25",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'T': 10, 'base_estimator': RandomForestClassifier()}",
+    "results": {
+        "accuracy": 0.2,
+        "precision": 0.3333333333333333,
+        "recall": 0.14285714285714285,
+        "f1_score": 0.2,
+        "time": 3.4909586906433105
+    }
+}{
+    "date": "2023-11-17 12:15:50",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'T': 10, 'base_estimator': RandomForestClassifier()}",
+    "results": {
+        "accuracy": 0.2,
+        "precision": 0.3333333333333333,
+        "recall": 0.14285714285714285,
+        "f1_score": 0.2,
+        "time": 2.814551830291748
+    }
+}{
+    "date": "2023-11-17 12:23:34",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier()}",
+    "results": {
+        "accuracy": 0.2,
+        "precision": 0.3333333333333333,
+        "recall": 0.14285714285714285,
+        "f1_score": 0.2,
+        "time": 142.33793997764587
+    }
+}
