@@ -1,0 +1,76 @@
+[{
+    "date": "2023-12-09 15:04:51",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': KNeighborsClassifier(n_neighbors=3), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': KNeighborsClassifier(n_neighbors=7)}",
+    "results_train": {
+        "train_accuracy": 0.7496666666666667,
+        "train_precision": 0.7584541062801933,
+        "train_recall": 0.7326666666666667,
+        "train_f1_score": 0.7453374025093252
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.581,
+        "transductive_precision": 0.5837023914969,
+        "transductive_recall": 0.5648571428571428,
+        "transductive_f1_score": 0.5741251633512414
+    },
+    "results_test": {
+        "test_accuracy": 0.5875,
+        "test_precision": 0.5939849624060151,
+        "test_recall": 0.553,
+        "test_f1_score": 0.5727602278612118,
+        "training_time": 2.5718204975128174
+    }
+},{
+    "date": "2023-12-09 15:05:21",
+    "algorithm": "Tri_Training",
+    "dataset": "imdb",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': KNeighborsClassifier(n_neighbors=3), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': KNeighborsClassifier(n_neighbors=7)}",
+    "results_train": {
+        "train_accuracy": 0.8046666666666666,
+        "train_precision": 0.7922742389357892,
+        "train_recall": 0.8258666666666666,
+        "train_f1_score": 0.8087217652435044
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6944571428571429,
+        "transductive_precision": 0.6883231876037631,
+        "transductive_recall": 0.7107428571428571,
+        "transductive_f1_score": 0.6993533876862525
+    },
+    "results_test": {
+        "test_accuracy": 0.68492,
+        "test_precision": 0.6799813127773885,
+        "test_recall": 0.69864,
+        "test_f1_score": 0.68918439016691,
+        "training_time": 9.338528871536255
+    }
+},{
+    "date": "2023-12-09 15:05:21",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': KNeighborsClassifier(n_neighbors=3), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': KNeighborsClassifier(n_neighbors=7)}",
+    "results_train": {
+        "train_accuracy": 0.9632352941176471,
+        "train_precision": 0.9444444444444444,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9714285714285714
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9655172413793104,
+        "transductive_precision": 0.9523809523809523,
+        "transductive_recall": 0.9950248756218906,
+        "transductive_f1_score": 0.97323600973236
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.971830985915493,
+        "test_recall": 0.971830985915493,
+        "test_f1_score": 0.971830985915493,
+        "training_time": 0.04640340805053711
+    }
+}]
