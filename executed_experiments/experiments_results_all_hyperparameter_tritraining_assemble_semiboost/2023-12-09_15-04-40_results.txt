@@ -1,0 +1,36 @@
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5875, 'test_precision': 0.5939849624060151, 'test_recall': 0.553, 'test_f1_score': 0.5727602278612118, 'training_time': 2.5718204975128174}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.68492, 'test_precision': 0.6799813127773885, 'test_recall': 0.69864, 'test_f1_score': 0.68918439016691, 'training_time': 9.338528871536255}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.971830985915493, 'test_recall': 0.971830985915493, 'test_f1_score': 0.971830985915493, 'training_time': 0.04640340805053711}
+

@@ -1,0 +1,720 @@
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.2937898635864258}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.4632391929626465}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.3743581771850586}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.5276265144348145}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.5233190059661865}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9594594594594594, 'test_recall': 1.0, 'test_f1_score': 0.9793103448275862, 'training_time': 0.6727268695831299}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9583333333333334, 'test_recall': 0.971830985915493, 'test_f1_score': 0.965034965034965, 'training_time': 0.7168886661529541}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9583333333333334, 'test_recall': 0.971830985915493, 'test_f1_score': 0.965034965034965, 'training_time': 0.8581008911132812}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9583333333333334, 'test_recall': 0.971830985915493, 'test_f1_score': 0.965034965034965, 'training_time': 0.4908466339111328}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9583333333333334, 'test_recall': 0.971830985915493, 'test_f1_score': 0.965034965034965, 'training_time': 0.48050880432128906}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9473684210526315, 'test_precision': 0.9577464788732394, 'test_recall': 0.9577464788732394, 'test_f1_score': 0.9577464788732394, 'training_time': 0.5132741928100586}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.5218441486358643}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.3421907424926758}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9473684210526315, 'test_precision': 0.9452054794520548, 'test_recall': 0.971830985915493, 'test_f1_score': 0.9583333333333334, 'training_time': 0.6625006198883057}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.5123467445373535}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9385964912280702, 'test_precision': 0.9324324324324325, 'test_recall': 0.971830985915493, 'test_f1_score': 0.9517241379310345, 'training_time': 0.4737975597381592}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.592, 'test_precision': 0.583941605839416, 'test_recall': 0.64, 'test_f1_score': 0.6106870229007634, 'training_time': 13.92297911643982}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.619, 'test_precision': 0.6224279835390947, 'test_recall': 0.605, 'test_f1_score': 0.6135902636916836, 'training_time': 293.1810607910156}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.607, 'test_precision': 0.6036821705426356, 'test_recall': 0.623, 'test_f1_score': 0.6131889763779528, 'training_time': 44.31116080284119}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6225, 'test_precision': 0.6139534883720931, 'test_recall': 0.66, 'test_f1_score': 0.636144578313253, 'training_time': 14.36690378189087}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.616, 'test_precision': 0.6174089068825911, 'test_recall': 0.61, 'test_f1_score': 0.6136820925553319, 'training_time': 293.71616315841675}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.548, 'test_precision': 0.547244094488189, 'test_recall': 0.556, 'test_f1_score': 0.5515873015873016, 'training_time': 424.7547459602356}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.62, 'test_precision': 0.628755364806867, 'test_recall': 0.586, 'test_f1_score': 0.6066252587991718, 'training_time': 308.18365931510925}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6305, 'test_precision': 0.6451612903225806, 'test_recall': 0.58, 'test_f1_score': 0.6108478146392838, 'training_time': 290.88439774513245}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.61, 'test_precision': 0.6084812623274162, 'test_recall': 0.617, 'test_f1_score': 0.6127110228401191, 'training_time': 44.04202651977539}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.616, 'test_precision': 0.6226215644820295, 'test_recall': 0.589, 'test_f1_score': 0.6053442959917779, 'training_time': 308.83377861976624}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.629, 'test_precision': 0.6408296943231441, 'test_recall': 0.587, 'test_f1_score': 0.6127348643006262, 'training_time': 58.07604908943176}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.637, 'test_precision': 0.6611764705882353, 'test_recall': 0.562, 'test_f1_score': 0.6075675675675676, 'training_time': 42.567309617996216}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.618, 'test_precision': 0.6111111111111112, 'test_recall': 0.649, 'test_f1_score': 0.6294859359844811, 'training_time': 14.599541902542114}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6235, 'test_precision': 0.6441073512252042, 'test_recall': 0.552, 'test_f1_score': 0.5945072697899838, 'training_time': 282.5030086040497}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6265, 'test_precision': 0.6445714285714286, 'test_recall': 0.564, 'test_f1_score': 0.6015999999999999, 'training_time': 42.382511377334595}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.604, 'test_precision': 0.6238095238095238, 'test_recall': 0.524, 'test_f1_score': 0.5695652173913044, 'training_time': 14.848826885223389}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.7982, 'test_precision': 0.808900306621364, 'test_recall': 0.78088, 'test_f1_score': 0.7946432205804533, 'training_time': 18.68912386894226}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84736, 'test_precision': 0.8464177437370353, 'test_recall': 0.84872, 'test_f1_score': 0.8475673084604937, 'training_time': 18.278944730758667}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.81608, 'test_precision': 0.8218999511161805, 'test_recall': 0.80704, 'test_f1_score': 0.8144021958504885, 'training_time': 58.200448989868164}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function gaussianNB_factory at 0x7ff785a06160>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.80792, 'test_precision': 0.8002340093603744, 'test_recall': 0.82072, 'test_f1_score': 0.8103475513428119, 'training_time': 22.917778491973877}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84752, 'test_precision': 0.8481327135758936, 'test_recall': 0.84664, 'test_f1_score': 0.8473856994154857, 'training_time': 18.439033031463623}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.85408, 'test_precision': 0.8474642801067671, 'test_recall': 0.8636, 'test_f1_score': 0.8554560583247485, 'training_time': 16.739854097366333}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.82812, 'test_precision': 0.8245627918018517, 'test_recall': 0.8336, 'test_f1_score': 0.829056768906393, 'training_time': 54.860918283462524}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function linear_svc_factory at 0x7ff785a06040>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.835, 'test_precision': 0.8266125887216286, 'test_recall': 0.84784, 'test_f1_score': 0.8370917420323052, 'training_time': 28.297391414642334}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.81828, 'test_precision': 0.8210798159954806, 'test_recall': 0.81392, 'test_f1_score': 0.8174842312482424, 'training_time': 58.1497061252594}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.82976, 'test_precision': 0.827819309686655, 'test_recall': 0.83272, 'test_f1_score': 0.8302624232272473, 'training_time': 56.00440311431885}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.75988, 'test_precision': 0.7523890917566622, 'test_recall': 0.77472, 'test_f1_score': 0.7633912735012416, 'training_time': 73.08050990104675}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function decision_tree_factory at 0x7ff785a061f0>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.78044, 'test_precision': 0.7687648547113394, 'test_recall': 0.80216, 'test_f1_score': 0.7851074658419137, 'training_time': 53.22978925704956}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function gaussianNB_factory at 0x7ff785a06160>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.80624, 'test_precision': 0.7990625, 'test_recall': 0.81824, 'test_f1_score': 0.8085375494071145, 'training_time': 20.743656873703003}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function linear_svc_factory at 0x7ff785a06040>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.838, 'test_precision': 0.8269617706237424, 'test_recall': 0.85488, 'test_f1_score': 0.8406891668633466, 'training_time': 20.041821002960205}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function decision_tree_factory at 0x7ff785a061f0>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.77924, 'test_precision': 0.7664300435081292, 'test_recall': 0.80328, 'test_f1_score': 0.7844224834967383, 'training_time': 53.94959855079651}
+
+Hyperparameters: {'base_estimator': <function random_forest_factory at 0x7ff7858b0f70>, 'base_estimator_2': <function knn_factory at 0x7ff785a08f70>, 'base_estimator_3': <function knn_factory at 0x7ff785a08f70>}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.67752, 'test_precision': 0.6603555427084838, 'test_recall': 0.73104, 'test_f1_score': 0.6939023464196218, 'training_time': 21.247621536254883}
+
+Alghoritm: Assemble
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 3}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 3}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 10}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 10}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 50}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 50}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 100}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 100}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 150}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 150}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 300}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 300}: fit() got an unexpected keyword argument 'sample_weight'
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 3}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 3}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 10}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 10}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 50}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 50}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 100}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 100}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 150}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 150}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 300}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 300}: fit() got an unexpected keyword argument 'sample_weight'
+Alghoritm: Assemble
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 3}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 3}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 10}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 10}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 50}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 50}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 100}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 100}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 150}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 150}: fit() got an unexpected keyword argument 'sample_weight'
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 300}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Error during training/evaluation for Assemble with params {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 300}: fit() got an unexpected keyword argument 'sample_weight'
+Alghoritm: SemiBoost
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 3}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9473684210526315, 'test_precision': 0.9452054794520548, 'test_recall': 0.971830985915493, 'test_f1_score': 0.9583333333333334, 'training_time': 0.36440515518188477}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 10}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.9466666666666667, 'test_recall': 1.0, 'test_f1_score': 0.9726027397260273, 'training_time': 1.2642135620117188}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 50}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.8421052631578947, 'test_precision': 0.797752808988764, 'test_recall': 1.0, 'test_f1_score': 0.8875, 'training_time': 6.862107038497925}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 100}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.7982456140350878, 'test_precision': 0.7553191489361702, 'test_recall': 1.0, 'test_f1_score': 0.8606060606060607, 'training_time': 6.952563285827637}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 150}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.868421052631579, 'test_precision': 0.8255813953488372, 'test_recall': 1.0, 'test_f1_score': 0.9044585987261146, 'training_time': 7.784204721450806}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 300}
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9122807017543859, 'test_precision': 0.8860759493670886, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9333333333333333, 'training_time': 3.8735923767089844}
+
+Alghoritm: SemiBoost
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 3}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5975, 'test_precision': 0.5951219512195122, 'test_recall': 0.61, 'test_f1_score': 0.6024691358024692, 'training_time': 8.026432037353516}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 10}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.572, 'test_precision': 0.5552995391705069, 'test_recall': 0.723, 'test_f1_score': 0.628149435273675, 'training_time': 26.64710235595703}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 50}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5175, 'test_precision': 0.5097384529771842, 'test_recall': 0.916, 'test_f1_score': 0.6549874865927781, 'training_time': 280.3249533176422}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 100}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5175, 'test_precision': 0.509706045479756, 'test_recall': 0.919, 'test_f1_score': 0.6557260078487335, 'training_time': 400.4825117588043}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 150}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5165, 'test_precision': 0.50917176209005, 'test_recall': 0.916, 'test_f1_score': 0.6545194712397285, 'training_time': 393.2633032798767}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 300}
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.521, 'test_precision': 0.5116796440489433, 'test_recall': 0.92, 'test_f1_score': 0.6576125804145818, 'training_time': 424.4678866863251}
+
+Alghoritm: SemiBoost
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 3}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.67736, 'test_precision': 0.6632547864506627, 'test_recall': 0.72056, 'test_f1_score': 0.6907208588957054, 'training_time': 41.00360870361328}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 10}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.66212, 'test_precision': 0.6326677577741407, 'test_recall': 0.77312, 'test_f1_score': 0.6958775877587758, 'training_time': 128.8483293056488}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 50}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.56744, 'test_precision': 0.5391983632474658, 'test_recall': 0.92768, 'test_f1_score': 0.6819972945950715, 'training_time': 1158.6009092330933}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 100}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.5438, 'test_precision': 0.5240437398445391, 'test_recall': 0.95464, 'test_f1_score': 0.6766465368149471, 'training_time': 3632.561066865921}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 150}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.5336, 'test_precision': 0.74822695035461, 'test_recall': 0.10128, 'test_f1_score': 0.1784103720405862, 'training_time': 6250.889444351196}
+
+Hyperparameters: {'base_estimator': <function knn_factory at 0x7ff785a08f70>, 'T': 300}
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.52748, 'test_precision': 0.5145004010300139, 'test_recall': 0.97504, 'test_f1_score': 0.6735748431843931, 'training_time': 13496.383168458939}
+
