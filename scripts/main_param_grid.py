@@ -63,10 +63,10 @@ if __name__ == "__main__":
     models = {
             # 'Tri_Training' : Tri_Training,
             # 'Assemble' : Assemble,
-            # 'SemiBoost' : SemiBoost
-            # 'LapSVM' : LapSVM,
-            'TSVM' : TSVM
-            # 'LabelPropagation' : LabelPropagation
+             'SemiBoost' : SemiBoost,
+             'LapSVM' : LapSVM,
+            #'TSVM' : TSVM
+             'LabelPropagation' : LabelPropagation
             }
 
     models_hyperparameters = {
@@ -82,14 +82,14 @@ if __name__ == "__main__":
                     'T' : [3, 10, 50, 100, 150, 300]
                 }
                 ,'SemiBoost' : {
-                    # 'base_estimator' : [random_forest_factory, decision_tree_factory, linear_svc_factory, gaussianNB_factory],
-                    'base_estimator' : svc_factory,
+                    'base_estimator' : [random_forest_factory, decision_tree_factory, linear_svc_factory, gaussianNB_factory, knn_factory],
+                    'similarity_kernel' : 'knn',
                     'T' : [3, 10, 50, 100, 150, 300]
                 }
                 ,'LapSVM' : {   
-                    'distance_function' : ['rbf', 'linear', 'knn'],
-                    'kernel_function' : ['rbf', 'linear'],
-                    'neighbor_mode' : 'distance'               
+                    #'distance_function' : ['rbf', 'linear', 'knn'],
+                    #'kernel_function' : ['rbf', 'linear'],
+                    'gamma_k' : [10**-3, 10**3,]    
                 }
                 ,'TSVM' : {
                     'max_iter' : [3*10**4, 10*10**4, 50*10**4, 100*10**4, 150*10**4, 300*10**4],
@@ -97,8 +97,10 @@ if __name__ == "__main__":
                     'random_state' : 42
                 }
                 ,'LabelPropagation' : {
-                    'kernel' : ['rbf', 'knn'],
-                    'max_iter' : [3, 10, 50, 100, 150, 300]
+                    'kernel' : 'rbf',# 'knn'],
+                    'max_iter' : 50,
+                    'gamma': [10**-5, 10**-4, 10**-3, 10**-2, 10**-1, 10**1, 10**2, 10**3, 10**4, 10**5]
+                    #'n_neighbors' 
                 }
                 }
     
