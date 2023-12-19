@@ -1,0 +1,901 @@
+{
+    "date": "2023-12-17 21:21:13",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9298642533936652,
+        "transductive_precision": 0.9049180327868852,
+        "transductive_recall": 0.9928057553956835,
+        "transductive_f1_score": 0.9468267581475129
+    },
+    "results_test": {
+        "test_accuracy": 0.9385964912280702,
+        "test_precision": 0.9102564102564102,
+        "test_recall": 1.0,
+        "test_f1_score": 0.953020134228188,
+        "training_time": 0.4421193599700928
+    }
+}{
+    "date": "2023-12-17 21:21:13",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9411764705882353,
+        "transductive_precision": 0.9315068493150684,
+        "transductive_recall": 0.9784172661870504,
+        "transductive_f1_score": 0.9543859649122808
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9459459459459459,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9655172413793103,
+        "training_time": 0.45971131324768066
+    }
+}{
+    "date": "2023-12-17 21:21:14",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9117647058823529,
+        "transductive_precision": 0.9163763066202091,
+        "transductive_recall": 0.9460431654676259,
+        "transductive_f1_score": 0.9309734513274336
+    },
+    "results_test": {
+        "test_accuracy": 0.9298245614035088,
+        "test_precision": 0.92,
+        "test_recall": 0.971830985915493,
+        "test_f1_score": 0.9452054794520549,
+        "training_time": 0.44092321395874023
+    }
+}{
+    "date": "2023-12-17 21:21:15",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.05,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9330254041570438,
+        "transductive_precision": 0.9175257731958762,
+        "transductive_recall": 0.9816176470588235,
+        "transductive_f1_score": 0.9484902309058614
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9459459459459459,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9655172413793103,
+        "training_time": 0.46157240867614746
+    }
+}{
+    "date": "2023-12-17 21:21:15",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.05,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.930715935334873,
+        "transductive_precision": 0.9384057971014492,
+        "transductive_recall": 0.9522058823529411,
+        "transductive_f1_score": 0.9452554744525548
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9583333333333334,
+        "test_recall": 0.971830985915493,
+        "test_f1_score": 0.965034965034965,
+        "training_time": 0.45565032958984375
+    }
+}{
+    "date": "2023-12-17 21:21:16",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.05,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9399538106235565,
+        "transductive_precision": 0.9212328767123288,
+        "transductive_recall": 0.9889705882352942,
+        "transductive_f1_score": 0.9539007092198581
+    },
+    "results_test": {
+        "test_accuracy": 0.9473684210526315,
+        "test_precision": 0.9333333333333333,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9589041095890412,
+        "training_time": 0.45886993408203125
+    }
+}{
+    "date": "2023-12-17 21:21:17",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.07,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9433962264150944,
+        "transductive_precision": 0.9516728624535316,
+        "transductive_recall": 0.9588014981273408,
+        "transductive_f1_score": 0.9552238805970148
+    },
+    "results_test": {
+        "test_accuracy": 0.9736842105263158,
+        "test_precision": 0.9722222222222222,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.979020979020979,
+        "training_time": 0.6616647243499756
+    }
+}{
+    "date": "2023-12-17 21:21:17",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.07,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9386792452830188,
+        "transductive_precision": 0.9381818181818182,
+        "transductive_recall": 0.9662921348314607,
+        "transductive_f1_score": 0.952029520295203
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9459459459459459,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9655172413793103,
+        "training_time": 0.6686949729919434
+    }
+}{
+    "date": "2023-12-17 21:21:18",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.07,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9410377358490566,
+        "transductive_precision": 0.9801587301587301,
+        "transductive_recall": 0.9250936329588015,
+        "transductive_f1_score": 0.9518304431599229
+    },
+    "results_test": {
+        "test_accuracy": 0.9736842105263158,
+        "test_precision": 0.9857142857142858,
+        "test_recall": 0.971830985915493,
+        "test_f1_score": 0.9787234042553192,
+        "training_time": 0.4698925018310547
+    }
+}{
+    "date": "2023-12-17 21:21:19",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.1,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9777777777777777,
+        "train_precision": 1.0,
+        "train_recall": 0.9642857142857143,
+        "train_f1_score": 0.9818181818181818
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9195121951219513,
+        "transductive_precision": 0.9377431906614786,
+        "transductive_recall": 0.9341085271317829,
+        "transductive_f1_score": 0.9359223300970874
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9583333333333334,
+        "test_recall": 0.971830985915493,
+        "test_f1_score": 0.965034965034965,
+        "training_time": 0.4577476978302002
+    }
+}{
+    "date": "2023-12-17 21:21:19",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.1,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9439024390243902,
+        "transductive_precision": 0.9536679536679536,
+        "transductive_recall": 0.9573643410852714,
+        "transductive_f1_score": 0.9555125725338491
+    },
+    "results_test": {
+        "test_accuracy": 0.9824561403508771,
+        "test_precision": 0.9859154929577465,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9859154929577465,
+        "training_time": 0.46813011169433594
+    }
+}{
+    "date": "2023-12-17 21:21:20",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.1,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9777777777777777,
+        "train_precision": 0.9655172413793104,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9824561403508771
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9390243902439024,
+        "transductive_precision": 0.9363295880149812,
+        "transductive_recall": 0.9689922480620154,
+        "transductive_f1_score": 0.9523809523809523
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.49008846282958984
+    }
+}{
+    "date": "2023-12-17 21:21:20",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.12,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9476309226932669,
+        "transductive_precision": 0.9230769230769231,
+        "transductive_recall": 1.0,
+        "transductive_f1_score": 0.9600000000000001
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9459459459459459,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9655172413793103,
+        "training_time": 0.4901134967803955
+    }
+}{
+    "date": "2023-12-17 21:21:21",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.12,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9629629629629629,
+        "train_precision": 0.9705882352941176,
+        "train_recall": 0.9705882352941176,
+        "train_f1_score": 0.9705882352941176
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.942643391521197,
+        "transductive_precision": 0.9490196078431372,
+        "transductive_recall": 0.9603174603174603,
+        "transductive_f1_score": 0.9546351084812623
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.971830985915493,
+        "test_recall": 0.971830985915493,
+        "test_f1_score": 0.971830985915493,
+        "training_time": 0.4963057041168213
+    }
+}{
+    "date": "2023-12-17 21:21:22",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.12,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9451371571072319,
+        "transductive_precision": 0.9389312977099237,
+        "transductive_recall": 0.9761904761904762,
+        "transductive_f1_score": 0.9571984435797665
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.4661402702331543
+    }
+}{
+    "date": "2023-12-17 21:21:22",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.15,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9198966408268734,
+        "transductive_precision": 0.9173228346456693,
+        "transductive_recall": 0.9588477366255144,
+        "transductive_f1_score": 0.9376257545271629
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9459459459459459,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9655172413793103,
+        "training_time": 0.4626493453979492
+    }
+}{
+    "date": "2023-12-17 21:21:23",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.15,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9705882352941176,
+        "train_precision": 0.9555555555555556,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9772727272727273
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9457364341085271,
+        "transductive_precision": 0.926923076923077,
+        "transductive_recall": 0.9917695473251029,
+        "transductive_f1_score": 0.9582504970178927
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.7498490810394287
+    }
+}{
+    "date": "2023-12-17 21:21:24",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.15,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9852941176470589,
+        "train_precision": 0.9772727272727273,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9885057471264368
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9509043927648578,
+        "transductive_precision": 0.9666666666666667,
+        "transductive_recall": 0.9547325102880658,
+        "transductive_f1_score": 0.9606625258799172
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.47745728492736816
+    }
+}{
+    "date": "2023-12-17 21:21:25",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.2,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9395604395604396,
+        "transductive_precision": 0.9330543933054394,
+        "transductive_recall": 0.9737991266375546,
+        "transductive_f1_score": 0.952991452991453
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.6884136199951172
+    }
+}{
+    "date": "2023-12-17 21:21:25",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.2,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9423076923076923,
+        "transductive_precision": 0.9369747899159664,
+        "transductive_recall": 0.9737991266375546,
+        "transductive_f1_score": 0.955032119914347
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.49454522132873535
+    }
+}{
+    "date": "2023-12-17 21:21:26",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.2,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9340659340659341,
+        "transductive_precision": 0.9324894514767933,
+        "transductive_recall": 0.9650655021834061,
+        "transductive_f1_score": 0.9484978540772533
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9459459459459459,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9655172413793103,
+        "training_time": 0.4619784355163574
+    }
+}{
+    "date": "2023-12-17 21:21:27",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.25,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9823008849557522,
+        "train_precision": 0.9726027397260274,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9861111111111112
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9415204678362573,
+        "transductive_precision": 0.9620853080568721,
+        "transductive_recall": 0.9441860465116279,
+        "transductive_f1_score": 0.9530516431924883
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.971830985915493,
+        "test_recall": 0.971830985915493,
+        "test_f1_score": 0.971830985915493,
+        "training_time": 0.5313088893890381
+    }
+}{
+    "date": "2023-12-17 21:21:27",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.25,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9734513274336283,
+        "train_precision": 0.9594594594594594,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9793103448275862
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9619883040935673,
+        "transductive_precision": 0.9469026548672567,
+        "transductive_recall": 0.9953488372093023,
+        "transductive_f1_score": 0.9705215419501134
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.508145809173584
+    }
+}{
+    "date": "2023-12-17 21:21:28",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.25,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9590643274853801,
+        "transductive_precision": 0.9547511312217195,
+        "transductive_recall": 0.9813953488372092,
+        "transductive_f1_score": 0.9678899082568808
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.49941492080688477
+    }
+}{
+    "date": "2023-12-17 21:21:29",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9926470588235294,
+        "train_precision": 0.9883720930232558,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9941520467836257
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9655172413793104,
+        "transductive_precision": 0.9611650485436893,
+        "transductive_recall": 0.9850746268656716,
+        "transductive_f1_score": 0.9729729729729729
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.5184042453765869
+    }
+}{
+    "date": "2023-12-17 21:21:29",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9852941176470589,
+        "train_precision": 0.9882352941176471,
+        "train_recall": 0.9882352941176471,
+        "train_f1_score": 0.9882352941176471
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9404388714733543,
+        "transductive_precision": 0.9642857142857143,
+        "transductive_recall": 0.9402985074626866,
+        "transductive_f1_score": 0.9521410579345089
+    },
+    "results_test": {
+        "test_accuracy": 0.9824561403508771,
+        "test_precision": 0.9859154929577465,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9859154929577465,
+        "training_time": 0.5156168937683105
+    }
+}{
+    "date": "2023-12-17 21:21:30",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9852941176470589,
+        "train_precision": 0.9770114942528736,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9883720930232558
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9498432601880877,
+        "transductive_precision": 0.9556650246305419,
+        "transductive_recall": 0.9651741293532339,
+        "transductive_f1_score": 0.9603960396039605
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.48918604850769043
+    }
+}{
+    "date": "2023-12-19 08:27:31",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9004524886877828,
+        "transductive_precision": 0.95703125,
+        "transductive_recall": 0.8812949640287769,
+        "transductive_f1_score": 0.9176029962546817
+    },
+    "results_test": {
+        "test_accuracy": 0.9473684210526315,
+        "test_precision": 0.9850746268656716,
+        "test_recall": 0.9295774647887324,
+        "test_f1_score": 0.9565217391304348,
+        "training_time": 0.44738340377807617
+    }
+}{
+    "date": "2023-12-19 08:27:31",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.05,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9122401847575058,
+        "transductive_precision": 0.9178571428571428,
+        "transductive_recall": 0.9448529411764706,
+        "transductive_f1_score": 0.931159420289855
+    },
+    "results_test": {
+        "test_accuracy": 0.9298245614035088,
+        "test_precision": 0.9090909090909091,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9459459459459459,
+        "training_time": 0.47235536575317383
+    }
+}{
+    "date": "2023-12-19 08:27:32",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.07,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9354838709677419,
+        "train_precision": 0.9473684210526315,
+        "train_recall": 0.9473684210526315,
+        "train_f1_score": 0.9473684210526315
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9386792452830188,
+        "transductive_precision": 0.9413919413919414,
+        "transductive_recall": 0.9625468164794008,
+        "transductive_f1_score": 0.9518518518518518
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.4977762699127197
+    }
+}{
+    "date": "2023-12-19 08:27:33",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.1,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9195121951219513,
+        "transductive_precision": 0.9591836734693877,
+        "transductive_recall": 0.9108527131782945,
+        "transductive_f1_score": 0.9343936381709742
+    },
+    "results_test": {
+        "test_accuracy": 0.9473684210526315,
+        "test_precision": 0.9710144927536232,
+        "test_recall": 0.9436619718309859,
+        "test_f1_score": 0.9571428571428571,
+        "training_time": 0.541428804397583
+    }
+}{
+    "date": "2023-12-19 08:27:33",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.12,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9326683291770573,
+        "transductive_precision": 0.9245283018867925,
+        "transductive_recall": 0.9722222222222222,
+        "transductive_f1_score": 0.9477756286266924
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9459459459459459,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9655172413793103,
+        "training_time": 0.4754481315612793
+    }
+}{
+    "date": "2023-12-19 08:27:34",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.15,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9457364341085271,
+        "transductive_precision": 0.937007874015748,
+        "transductive_recall": 0.9794238683127572,
+        "transductive_f1_score": 0.9577464788732395
+    },
+    "results_test": {
+        "test_accuracy": 0.956140350877193,
+        "test_precision": 0.9459459459459459,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9655172413793103,
+        "training_time": 0.6972324848175049
+    }
+}{
+    "date": "2023-12-19 08:27:35",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.2,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.989010989010989,
+        "train_precision": 0.9827586206896551,
+        "train_recall": 1.0,
+        "train_f1_score": 0.9913043478260869
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9532967032967034,
+        "transductive_precision": 0.9529914529914529,
+        "transductive_recall": 0.9737991266375546,
+        "transductive_f1_score": 0.9632829373650108
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.7822046279907227
+    }
+}{
+    "date": "2023-12-19 08:27:36",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.25,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 0.9911504424778761,
+        "train_precision": 0.9861111111111112,
+        "train_recall": 1.0,
+        "train_f1_score": 0.993006993006993
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9473684210526315,
+        "transductive_precision": 0.958139534883721,
+        "transductive_recall": 0.958139534883721,
+        "transductive_f1_score": 0.958139534883721
+    },
+    "results_test": {
+        "test_accuracy": 0.9736842105263158,
+        "test_precision": 0.9722222222222222,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.979020979020979,
+        "training_time": 0.7948768138885498
+    }
+}{
+    "date": "2023-12-19 08:27:37",
+    "algorithm": "Tri_Training",
+    "dataset": "breast_cancer",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': LinearSVC(max_iter=10000), 'base_estimator_3': GaussianNB()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.9467084639498433,
+        "transductive_precision": 0.9380952380952381,
+        "transductive_recall": 0.9800995024875622,
+        "transductive_f1_score": 0.9586374695863747
+    },
+    "results_test": {
+        "test_accuracy": 0.9649122807017544,
+        "test_precision": 0.958904109589041,
+        "test_recall": 0.9859154929577465,
+        "test_f1_score": 0.9722222222222222,
+        "training_time": 0.7258100509643555
+    }
+}
