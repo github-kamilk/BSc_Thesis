@@ -898,4 +898,904 @@
         "test_f1_score": 0.5982996811902233,
         "training_time": 41.17597484588623
     }
+}{
+    "date": "2023-12-19 22:33:41",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5757731958762886,
+        "transductive_precision": 0.5766743167118715,
+        "transductive_recall": 0.5698969072164949,
+        "transductive_f1_score": 0.5732655812506482
+    },
+    "results_test": {
+        "test_accuracy": 0.582,
+        "test_precision": 0.5859538784067087,
+        "test_recall": 0.559,
+        "test_f1_score": 0.5721596724667349,
+        "training_time": 18.634374856948853
+    }
+}{
+    "date": "2023-12-19 22:34:03",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5602061855670103,
+        "transductive_precision": 0.5581673306772909,
+        "transductive_recall": 0.5777319587628866,
+        "transductive_f1_score": 0.5677811550151977
+    },
+    "results_test": {
+        "test_accuracy": 0.574,
+        "test_precision": 0.5710172744721689,
+        "test_recall": 0.595,
+        "test_f1_score": 0.5827619980411362,
+        "training_time": 19.297743558883667
+    }
+}{
+    "date": "2023-12-19 22:34:25",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.581340206185567,
+        "transductive_precision": 0.5765276430649855,
+        "transductive_recall": 0.6127835051546392,
+        "transductive_f1_score": 0.5941029485257372
+    },
+    "results_test": {
+        "test_accuracy": 0.578,
+        "test_precision": 0.5702702702702702,
+        "test_recall": 0.633,
+        "test_f1_score": 0.6,
+        "training_time": 19.358976364135742
+    }
+}{
+    "date": "2023-12-19 22:34:48",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.03,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5845360824742268,
+        "transductive_precision": 0.6029116465863453,
+        "transductive_recall": 0.4952577319587629,
+        "transductive_f1_score": 0.5438080144894726
+    },
+    "results_test": {
+        "test_accuracy": 0.5995,
+        "test_precision": 0.6236024844720497,
+        "test_recall": 0.502,
+        "test_f1_score": 0.5562326869806093,
+        "training_time": 20.504120588302612
+    }
+}{
+    "date": "2023-12-19 22:35:12",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.05,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5775789473684211,
+        "transductive_precision": 0.5946084724005135,
+        "transductive_recall": 0.48757894736842106,
+        "transductive_f1_score": 0.535801041064199
+    },
+    "results_test": {
+        "test_accuracy": 0.5875,
+        "test_precision": 0.6123234916559692,
+        "test_recall": 0.477,
+        "test_f1_score": 0.5362563237774032,
+        "training_time": 21.978867530822754
+    }
+}{
+    "date": "2023-12-19 22:35:35",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.05,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5734736842105264,
+        "transductive_precision": 0.570024077046549,
+        "transductive_recall": 0.5981052631578947,
+        "transductive_f1_score": 0.5837271419765769
+    },
+    "results_test": {
+        "test_accuracy": 0.582,
+        "test_precision": 0.5773584905660377,
+        "test_recall": 0.612,
+        "test_f1_score": 0.5941747572815534,
+        "training_time": 20.659079551696777
+    }
+}{
+    "date": "2023-12-19 22:36:00",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.05,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5874736842105264,
+        "transductive_precision": 0.6174060469059056,
+        "transductive_recall": 0.46,
+        "transductive_f1_score": 0.5272047291591265
+    },
+    "results_test": {
+        "test_accuracy": 0.5905,
+        "test_precision": 0.6251728907330567,
+        "test_recall": 0.452,
+        "test_f1_score": 0.5246662797446314,
+        "training_time": 22.329708576202393
+    }
+}{
+    "date": "2023-12-19 22:36:25",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.05,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5770526315789474,
+        "transductive_precision": 0.5904150197628458,
+        "transductive_recall": 0.5031578947368421,
+        "transductive_f1_score": 0.5433052966583314
+    },
+    "results_test": {
+        "test_accuracy": 0.592,
+        "test_precision": 0.6119221411192214,
+        "test_recall": 0.503,
+        "test_f1_score": 0.5521405049396267,
+        "training_time": 22.584454774856567
+    }
+}{
+    "date": "2023-12-19 22:36:53",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.07,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5847311827956989,
+        "transductive_precision": 0.5799837596427121,
+        "transductive_recall": 0.6144086021505376,
+        "transductive_f1_score": 0.5967000835421887
+    },
+    "results_test": {
+        "test_accuracy": 0.5845,
+        "test_precision": 0.5787511649580616,
+        "test_recall": 0.621,
+        "test_f1_score": 0.5991316931982634,
+        "training_time": 24.52163529396057
+    }
+}{
+    "date": "2023-12-19 22:37:20",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.07,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5846236559139785,
+        "transductive_precision": 0.5802897367884106,
+        "transductive_recall": 0.6116129032258064,
+        "transductive_f1_score": 0.5955397340592608
+    },
+    "results_test": {
+        "test_accuracy": 0.5905,
+        "test_precision": 0.5854579792256847,
+        "test_recall": 0.62,
+        "test_f1_score": 0.6022340942204955,
+        "training_time": 24.28523826599121
+    }
+}{
+    "date": "2023-12-19 22:37:44",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.07,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5921505376344086,
+        "transductive_precision": 0.6173008486175746,
+        "transductive_recall": 0.48494623655913977,
+        "transductive_f1_score": 0.5431771648801638
+    },
+    "results_test": {
+        "test_accuracy": 0.5895,
+        "test_precision": 0.6191744340878829,
+        "test_recall": 0.465,
+        "test_f1_score": 0.5311250713877783,
+        "training_time": 21.785126447677612
+    }
+}{
+    "date": "2023-12-19 22:38:10",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.07,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5994623655913979,
+        "transductive_precision": 0.6214867349619123,
+        "transductive_recall": 0.5088172043010752,
+        "transductive_f1_score": 0.5595364786567342
+    },
+    "results_test": {
+        "test_accuracy": 0.6095,
+        "test_precision": 0.6446499339498019,
+        "test_recall": 0.488,
+        "test_f1_score": 0.5554923164484917,
+        "training_time": 23.289604425430298
+    }
+}{
+    "date": "2023-12-19 22:38:39",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.1,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5906666666666667,
+        "transductive_precision": 0.6276595744680851,
+        "transductive_recall": 0.4457777777777778,
+        "transductive_f1_score": 0.5213097713097712
+    },
+    "results_test": {
+        "test_accuracy": 0.5925,
+        "test_precision": 0.6395173453996983,
+        "test_recall": 0.424,
+        "test_f1_score": 0.5099218280216476,
+        "training_time": 26.101712226867676
+    }
+}{
+    "date": "2023-12-19 22:39:08",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.1,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5921111111111111,
+        "transductive_precision": 0.6075226977950713,
+        "transductive_recall": 0.5204444444444445,
+        "transductive_f1_score": 0.5606223818073011
+    },
+    "results_test": {
+        "test_accuracy": 0.62,
+        "test_precision": 0.6421800947867299,
+        "test_recall": 0.542,
+        "test_f1_score": 0.5878524945770065,
+        "training_time": 26.306090593338013
+    }
+}{
+    "date": "2023-12-19 22:39:37",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.1,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5834444444444444,
+        "transductive_precision": 0.5783761218952203,
+        "transductive_recall": 0.6157777777777778,
+        "transductive_f1_score": 0.5964912280701755
+    },
+    "results_test": {
+        "test_accuracy": 0.59,
+        "test_precision": 0.5815217391304348,
+        "test_recall": 0.642,
+        "test_f1_score": 0.6102661596958174,
+        "training_time": 26.25875425338745
+    }
+}{
+    "date": "2023-12-19 22:40:04",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.1,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5932222222222222,
+        "transductive_precision": 0.6234913158669414,
+        "transductive_recall": 0.4706666666666667,
+        "transductive_f1_score": 0.5364062302140054
+    },
+    "results_test": {
+        "test_accuracy": 0.597,
+        "test_precision": 0.6389684813753582,
+        "test_recall": 0.446,
+        "test_f1_score": 0.5253239104829212,
+        "training_time": 24.865590572357178
+    }
+}{
+    "date": "2023-12-19 22:40:34",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.12,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6015909090909091,
+        "transductive_precision": 0.6029953917050691,
+        "transductive_recall": 0.5947727272727272,
+        "transductive_f1_score": 0.5988558352402745
+    },
+    "results_test": {
+        "test_accuracy": 0.606,
+        "test_precision": 0.6049504950495049,
+        "test_recall": 0.611,
+        "test_f1_score": 0.6079601990049752,
+        "training_time": 27.796549797058105
+    }
+}{
+    "date": "2023-12-19 22:41:03",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.12,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6044318181818182,
+        "transductive_precision": 0.6079398637538173,
+        "transductive_recall": 0.5881818181818181,
+        "transductive_f1_score": 0.5978976550768165
+    },
+    "results_test": {
+        "test_accuracy": 0.5995,
+        "test_precision": 0.6022610483042138,
+        "test_recall": 0.586,
+        "test_f1_score": 0.5940192600101368,
+        "training_time": 26.258172750473022
+    }
+}{
+    "date": "2023-12-19 22:41:33",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.12,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6027272727272728,
+        "transductive_precision": 0.5974137931034482,
+        "transductive_recall": 0.63,
+        "transductive_f1_score": 0.6132743362831858
+    },
+    "results_test": {
+        "test_accuracy": 0.589,
+        "test_precision": 0.584280303030303,
+        "test_recall": 0.617,
+        "test_f1_score": 0.6001945525291829,
+        "training_time": 27.46106219291687
+    }
+}{
+    "date": "2023-12-19 22:42:03",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.12,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5956818181818182,
+        "transductive_precision": 0.6106148187073043,
+        "transductive_recall": 0.5281818181818182,
+        "transductive_f1_score": 0.5664148184255423
+    },
+    "results_test": {
+        "test_accuracy": 0.6095,
+        "test_precision": 0.6292798110979929,
+        "test_recall": 0.533,
+        "test_f1_score": 0.5771521386031402,
+        "training_time": 27.46722435951233
+    }
+}{
+    "date": "2023-12-19 22:42:36",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.15,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6062352941176471,
+        "transductive_precision": 0.6215343203230148,
+        "transductive_recall": 0.5432941176470588,
+        "transductive_f1_score": 0.5797865662272443
+    },
+    "results_test": {
+        "test_accuracy": 0.612,
+        "test_precision": 0.6333333333333333,
+        "test_recall": 0.532,
+        "test_f1_score": 0.5782608695652175,
+        "training_time": 29.81463360786438
+    }
+}{
+    "date": "2023-12-19 22:43:08",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.15,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6052941176470589,
+        "transductive_precision": 0.6028972177512072,
+        "transductive_recall": 0.6169411764705882,
+        "transductive_f1_score": 0.6098383532968951
+    },
+    "results_test": {
+        "test_accuracy": 0.633,
+        "test_precision": 0.627151051625239,
+        "test_recall": 0.656,
+        "test_f1_score": 0.6412512218963832,
+        "training_time": 29.7086021900177
+    }
+}{
+    "date": "2023-12-19 22:43:41",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.15,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5962352941176471,
+        "transductive_precision": 0.6002450980392157,
+        "transductive_recall": 0.5762352941176471,
+        "transductive_f1_score": 0.5879951980792316
+    },
+    "results_test": {
+        "test_accuracy": 0.621,
+        "test_precision": 0.6244855967078189,
+        "test_recall": 0.607,
+        "test_f1_score": 0.6156186612576064,
+        "training_time": 30.38804054260254
+    }
+}{
+    "date": "2023-12-19 22:44:12",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.15,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6009411764705882,
+        "transductive_precision": 0.6322441430332922,
+        "transductive_recall": 0.48258823529411765,
+        "transductive_f1_score": 0.5473712303175874
+    },
+    "results_test": {
+        "test_accuracy": 0.601,
+        "test_precision": 0.6339522546419099,
+        "test_recall": 0.478,
+        "test_f1_score": 0.5450399087799316,
+        "training_time": 28.953030347824097
+    }
+}{
+    "date": "2023-12-19 22:44:48",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.2,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.614875,
+        "transductive_precision": 0.6272500692328995,
+        "transductive_recall": 0.56625,
+        "transductive_f1_score": 0.5951911706740244
+    },
+    "results_test": {
+        "test_accuracy": 0.6045,
+        "test_precision": 0.6180790960451977,
+        "test_recall": 0.547,
+        "test_f1_score": 0.580371352785146,
+        "training_time": 33.50729751586914
+    }
+}{
+    "date": "2023-12-19 22:45:25",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.2,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.60775,
+        "transductive_precision": 0.6244945118428654,
+        "transductive_recall": 0.5405,
+        "transductive_f1_score": 0.5794693111766281
+    },
+    "results_test": {
+        "test_accuracy": 0.6225,
+        "test_precision": 0.6442873969375736,
+        "test_recall": 0.547,
+        "test_f1_score": 0.5916711736073553,
+        "training_time": 34.53629922866821
+    }
+}{
+    "date": "2023-12-19 22:46:01",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.2,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.602375,
+        "transductive_precision": 0.6199824201582186,
+        "transductive_recall": 0.529,
+        "transductive_f1_score": 0.5708889788209901
+    },
+    "results_test": {
+        "test_accuracy": 0.6075,
+        "test_precision": 0.6335403726708074,
+        "test_recall": 0.51,
+        "test_f1_score": 0.5650969529085873,
+        "training_time": 33.19514465332031
+    }
+}{
+    "date": "2023-12-19 22:46:36",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.2,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.60675,
+        "transductive_precision": 0.615280777537797,
+        "transductive_recall": 0.56975,
+        "transductive_f1_score": 0.5916407061266874
+    },
+    "results_test": {
+        "test_accuracy": 0.623,
+        "test_precision": 0.6308510638297873,
+        "test_recall": 0.593,
+        "test_f1_score": 0.6113402061855671,
+        "training_time": 32.56181836128235
+    }
+}{
+    "date": "2023-12-19 22:47:17",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.25,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6114666666666667,
+        "transductive_precision": 0.6441379310344828,
+        "transductive_recall": 0.4981333333333333,
+        "transductive_f1_score": 0.5618045112781955
+    },
+    "results_test": {
+        "test_accuracy": 0.6195,
+        "test_precision": 0.6604026845637584,
+        "test_recall": 0.492,
+        "test_f1_score": 0.5638968481375358,
+        "training_time": 38.13502597808838
+    }
+}{
+    "date": "2023-12-19 22:47:58",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.25,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6046666666666667,
+        "transductive_precision": 0.6051433163675328,
+        "transductive_recall": 0.6024,
+        "transductive_f1_score": 0.6037685420285982
+    },
+    "results_test": {
+        "test_accuracy": 0.608,
+        "test_precision": 0.6077844311377245,
+        "test_recall": 0.609,
+        "test_f1_score": 0.6083916083916083,
+        "training_time": 38.70176410675049
+    }
+}{
+    "date": "2023-12-19 22:48:37",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.25,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6102666666666666,
+        "transductive_precision": 0.6171720034003967,
+        "transductive_recall": 0.5808,
+        "transductive_f1_score": 0.5984338508036818
+    },
+    "results_test": {
+        "test_accuracy": 0.6245,
+        "test_precision": 0.6345945945945946,
+        "test_recall": 0.587,
+        "test_f1_score": 0.6098701298701298,
+        "training_time": 36.682674169540405
+    }
+}{
+    "date": "2023-12-19 22:49:17",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.25,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.606,
+        "transductive_precision": 0.6388403772266853,
+        "transductive_recall": 0.48773333333333335,
+        "transductive_f1_score": 0.5531528806895509
+    },
+    "results_test": {
+        "test_accuracy": 0.608,
+        "test_precision": 0.651685393258427,
+        "test_recall": 0.464,
+        "test_f1_score": 0.5420560747663552,
+        "training_time": 37.53941512107849
+    }
+}{
+    "date": "2023-12-19 22:50:03",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6165714285714285,
+        "transductive_precision": 0.6139664804469274,
+        "transductive_recall": 0.628,
+        "transductive_f1_score": 0.62090395480226
+    },
+    "results_test": {
+        "test_accuracy": 0.616,
+        "test_precision": 0.6117533718689788,
+        "test_recall": 0.635,
+        "test_f1_score": 0.6231599607458294,
+        "training_time": 42.353490591049194
+    }
+}{
+    "date": "2023-12-19 22:50:48",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6198571428571429,
+        "transductive_precision": 0.6416751097602161,
+        "transductive_recall": 0.5428571428571428,
+        "transductive_f1_score": 0.5881442501160811
+    },
+    "results_test": {
+        "test_accuracy": 0.621,
+        "test_precision": 0.6527777777777778,
+        "test_recall": 0.517,
+        "test_f1_score": 0.5770089285714286,
+        "training_time": 42.508360385894775
+    }
+}{
+    "date": "2023-12-19 22:51:32",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6247142857142857,
+        "transductive_precision": 0.6475160527205137,
+        "transductive_recall": 0.5474285714285714,
+        "transductive_f1_score": 0.5932806936058214
+    },
+    "results_test": {
+        "test_accuracy": 0.6285,
+        "test_precision": 0.6538922155688622,
+        "test_recall": 0.546,
+        "test_f1_score": 0.5950953678474115,
+        "training_time": 41.5902259349823
+    }
+}{
+    "date": "2023-12-19 22:52:16",
+    "algorithm": "Tri_Training",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'base_estimator_2': KNeighborsClassifier(), 'base_estimator_3': DecisionTreeClassifier()}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.6118571428571429,
+        "transductive_precision": 0.6300232480903354,
+        "transductive_recall": 0.542,
+        "transductive_f1_score": 0.5827061895254185
+    },
+    "results_test": {
+        "test_accuracy": 0.6125,
+        "test_precision": 0.6376988984088128,
+        "test_recall": 0.521,
+        "test_f1_score": 0.57347275729224,
+        "training_time": 41.25312256813049
+    }
 }
