@@ -1,4 +1,4 @@
-{
+[{
     "date": "2023-12-15 22:19:31",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -23,7 +23,7 @@
         "test_f1_score": 0.9722222222222222,
         "training_time": 0.8865861892700195
     }
-}{
+},{
     "date": "2023-12-15 22:19:34",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -48,7 +48,7 @@
         "test_f1_score": 0.9722222222222222,
         "training_time": 2.483273506164551
     }
-}{
+},{
     "date": "2023-12-15 22:19:42",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -73,7 +73,7 @@
         "test_f1_score": 0.965034965034965,
         "training_time": 7.498525142669678
     }
-}{
+},{
     "date": "2023-12-15 22:19:51",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -98,7 +98,7 @@
         "test_f1_score": 0.9655172413793103,
         "training_time": 7.548818111419678
     }
-}{
+},{
     "date": "2023-12-15 22:19:59",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -123,7 +123,7 @@
         "test_f1_score": 0.9589041095890412,
         "training_time": 7.495404958724976
     }
-}{
+},{
     "date": "2023-12-15 22:20:12",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -148,7 +148,7 @@
         "test_f1_score": 0.9655172413793103,
         "training_time": 11.350728750228882
     }
-}{
+},{
     "date": "2023-12-15 22:20:12",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -173,7 +173,7 @@
         "test_f1_score": 0.9154929577464789,
         "training_time": 0.0434725284576416
     }
-}{
+},{
     "date": "2023-12-15 22:20:12",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -198,7 +198,7 @@
         "test_f1_score": 0.9577464788732394,
         "training_time": 0.17535853385925293
     }
-}{
+},{
     "date": "2023-12-15 22:20:13",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -223,7 +223,7 @@
         "test_f1_score": 0.906474820143885,
         "training_time": 0.3878772258758545
     }
-}{
+},{
     "date": "2023-12-15 22:20:13",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -248,7 +248,7 @@
         "test_f1_score": 0.9078014184397163,
         "training_time": 0.16811370849609375
     }
-}{
+},{
     "date": "2023-12-15 22:20:13",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -273,7 +273,7 @@
         "test_f1_score": 0.9370629370629372,
         "training_time": 0.21178078651428223
     }
-}{
+},{
     "date": "2023-12-15 22:20:14",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -298,7 +298,7 @@
         "test_f1_score": 0.9154929577464789,
         "training_time": 0.16500353813171387
     }
-}{
+},{
     "date": "2023-12-15 22:20:14",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -323,7 +323,7 @@
         "test_f1_score": 0.9787234042553192,
         "training_time": 0.14409255981445312
     }
-}{
+},{
     "date": "2023-12-15 22:20:14",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -348,7 +348,7 @@
         "test_f1_score": 0.971830985915493,
         "training_time": 0.2754325866699219
     }
-}{
+},{
     "date": "2023-12-15 22:20:15",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -373,7 +373,7 @@
         "test_f1_score": 0.951048951048951,
         "training_time": 0.4406707286834717
     }
-}{
+},{
     "date": "2023-12-15 22:20:16",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -398,7 +398,7 @@
         "test_f1_score": 0.9436619718309859,
         "training_time": 1.2140076160430908
     }
-}{
+},{
     "date": "2023-12-15 22:20:17",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -423,7 +423,7 @@
         "test_f1_score": 0.9714285714285714,
         "training_time": 0.5755109786987305
     }
-}{
+},{
     "date": "2023-12-15 22:20:17",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -448,7 +448,7 @@
         "test_f1_score": 0.9714285714285714,
         "training_time": 0.5231733322143555
     }
-}{
+},{
     "date": "2023-12-15 22:20:18",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -473,7 +473,7 @@
         "test_f1_score": 0.9655172413793103,
         "training_time": 0.1702425479888916
     }
-}{
+},{
     "date": "2023-12-15 22:20:18",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -498,7 +498,7 @@
         "test_f1_score": 0.9655172413793103,
         "training_time": 0.33527326583862305
     }
-}{
+},{
     "date": "2023-12-15 22:20:20",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -523,7 +523,7 @@
         "test_f1_score": 0.9726027397260273,
         "training_time": 1.4893829822540283
     }
-}{
+},{
     "date": "2023-12-15 22:20:20",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -548,7 +548,7 @@
         "test_f1_score": 0.9655172413793103,
         "training_time": 0.523247480392456
     }
-}{
+},{
     "date": "2023-12-15 22:20:22",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -573,7 +573,7 @@
         "test_f1_score": 0.9655172413793103,
         "training_time": 1.3419170379638672
     }
-}{
+},{
     "date": "2023-12-15 22:20:24",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -598,7 +598,7 @@
         "test_f1_score": 0.9655172413793103,
         "training_time": 1.7009673118591309
     }
-}{
+},{
     "date": "2023-12-15 22:20:24",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -623,7 +623,7 @@
         "test_f1_score": 0.965034965034965,
         "training_time": 0.3583393096923828
     }
-}{
+},{
     "date": "2023-12-15 22:20:25",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -648,7 +648,7 @@
         "test_f1_score": 0.965034965034965,
         "training_time": 1.266681432723999
     }
-}{
+},{
     "date": "2023-12-15 22:20:30",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -673,7 +673,7 @@
         "test_f1_score": 0.9722222222222222,
         "training_time": 4.002525091171265
     }
-}{
+},{
     "date": "2023-12-15 22:20:35",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -698,7 +698,7 @@
         "test_f1_score": 0.971830985915493,
         "training_time": 4.9193384647369385
     }
-}{
+},{
     "date": "2023-12-15 22:20:41",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -723,7 +723,7 @@
         "test_f1_score": 0.9452054794520549,
         "training_time": 5.9045422077178955
     }
-}{
+},{
     "date": "2023-12-15 22:20:46",
     "algorithm": "SemiBoost",
     "dataset": "breast_cancer",
@@ -748,7 +748,7 @@
         "test_f1_score": 0.965034965034965,
         "training_time": 4.275767803192139
     }
-}{
+},{
     "date": "2023-12-15 22:21:18",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -773,7 +773,7 @@
         "test_f1_score": 0.6253838280450357,
         "training_time": 29.963943243026733
     }
-}{
+},{
     "date": "2023-12-15 22:23:10",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -798,7 +798,7 @@
         "test_f1_score": 0.6271450858034321,
         "training_time": 107.97007966041565
     }
-}{
+},{
     "date": "2023-12-15 22:28:32",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -823,7 +823,7 @@
         "test_f1_score": 0.6059637912673056,
         "training_time": 311.7303237915039
     }
-}{
+},{
     "date": "2023-12-15 22:35:57",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -848,7 +848,7 @@
         "test_f1_score": 0.583421891604676,
         "training_time": 430.05904936790466
     }
-}{
+},{
     "date": "2023-12-15 22:47:52",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -873,7 +873,7 @@
         "test_f1_score": 0.5847280334728034,
         "training_time": 694.9003496170044
     }
-}{
+},{
     "date": "2023-12-15 22:54:46",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -898,7 +898,7 @@
         "test_f1_score": 0.5982905982905983,
         "training_time": 400.07117080688477
     }
-}{
+},{
     "date": "2023-12-15 22:55:04",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -923,7 +923,7 @@
         "test_f1_score": 0.5718547986076578,
         "training_time": 18.028624296188354
     }
-}{
+},{
     "date": "2023-12-15 22:55:53",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -948,7 +948,7 @@
         "test_f1_score": 0.5552801189885971,
         "training_time": 48.790605306625366
     }
-}{
+},{
     "date": "2023-12-15 22:57:08",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -973,7 +973,7 @@
         "test_f1_score": 0.5371485943775102,
         "training_time": 75.1787040233612
     }
-}{
+},{
     "date": "2023-12-15 22:58:51",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -998,7 +998,7 @@
         "test_f1_score": 0.5343511450381679,
         "training_time": 102.18199491500854
     }
-}{
+},{
     "date": "2023-12-15 23:00:28",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1023,7 +1023,7 @@
         "test_f1_score": 0.5513196480938416,
         "training_time": 95.97989892959595
     }
-}{
+},{
     "date": "2023-12-15 23:01:30",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1048,7 +1048,7 @@
         "test_f1_score": 0.5550617283950618,
         "training_time": 62.39907717704773
     }
-}{
+},{
     "date": "2023-12-15 23:04:46",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1073,7 +1073,7 @@
         "test_f1_score": 0.5370187561697927,
         "training_time": 194.94093084335327
     }
-}{
+},{
     "date": "2023-12-15 23:11:32",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1098,7 +1098,7 @@
         "test_f1_score": 0.5417696490360849,
         "training_time": 406.1967010498047
     }
-}{
+},{
     "date": "2023-12-15 23:26:35",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1123,7 +1123,7 @@
         "test_f1_score": 0.526369168356998,
         "training_time": 902.7828397750854
     }
-}{
+},{
     "date": "2023-12-15 23:32:10",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1148,7 +1148,7 @@
         "test_f1_score": 0.5234765234765235,
         "training_time": 334.64801955223083
     }
-}{
+},{
     "date": "2023-12-15 23:40:08",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1173,7 +1173,7 @@
         "test_f1_score": 0.5455450472872077,
         "training_time": 477.3286039829254
     }
-}{
+},{
     "date": "2023-12-15 23:48:13",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1198,7 +1198,7 @@
         "test_f1_score": 0.550667325753831,
         "training_time": 484.703905582428
     }
-}{
+},{
     "date": "2023-12-15 23:48:24",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1223,7 +1223,7 @@
         "test_f1_score": 0.6130120481927711,
         "training_time": 10.029226541519165
     }
-}{
+},{
     "date": "2023-12-15 23:49:04",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1248,7 +1248,7 @@
         "test_f1_score": 0.6092778574844573,
         "training_time": 36.57342791557312
     }
-}{
+},{
     "date": "2023-12-15 23:50:33",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1273,7 +1273,7 @@
         "test_f1_score": 0.6023506366307542,
         "training_time": 81.84802842140198
     }
-}{
+},{
     "date": "2023-12-15 23:51:45",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1298,7 +1298,7 @@
         "test_f1_score": 0.6088221037324286,
         "training_time": 66.13922786712646
     }
-}{
+},{
     "date": "2023-12-15 23:53:54",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1323,7 +1323,7 @@
         "test_f1_score": 0.6038277511961722,
         "training_time": 119.75451350212097
     }
-}{
+},{
     "date": "2023-12-15 23:57:01",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1348,7 +1348,7 @@
         "test_f1_score": 0.6018746916625555,
         "training_time": 174.6059536933899
     }
-}{
+},{
     "date": "2023-12-15 23:57:12",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1373,7 +1373,7 @@
         "test_f1_score": 0.5770020533880904,
         "training_time": 9.713086605072021
     }
-}{
+},{
     "date": "2023-12-15 23:57:53",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1398,7 +1398,7 @@
         "test_f1_score": 0.5572888649811727,
         "training_time": 35.92764496803284
     }
-}{
+},{
     "date": "2023-12-16 00:03:54",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1423,7 +1423,7 @@
         "test_f1_score": 0.5572088250384813,
         "training_time": 331.7286705970764
     }
-}{
+},{
     "date": "2023-12-16 00:07:36",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1448,7 +1448,7 @@
         "test_f1_score": 0.555152770585189,
         "training_time": 197.77640056610107
     }
-}{
+},{
     "date": "2023-12-16 00:10:30",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1473,7 +1473,7 @@
         "test_f1_score": 0.5788667687595712,
         "training_time": 158.21997380256653
     }
-}{
+},{
     "date": "2023-12-16 00:15:33",
     "algorithm": "SemiBoost",
     "dataset": "cifar10",
@@ -1498,7 +1498,7 @@
         "test_f1_score": 0.5556130367304708,
         "training_time": 278.3334574699402
     }
-}{
+},{
     "date": "2023-12-16 00:17:18",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1523,7 +1523,7 @@
         "test_f1_score": 0.8138242165471684,
         "training_time": 82.93976330757141
     }
-}{
+},{
     "date": "2023-12-16 00:22:43",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1548,7 +1548,7 @@
         "test_f1_score": 0.8102760491463219,
         "training_time": 292.7236385345459
     }
-}{
+},{
     "date": "2023-12-16 00:47:15",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1573,7 +1573,7 @@
         "test_f1_score": 0.779812687217988,
         "training_time": 1352.2480127811432
     }
-}{
+},{
     "date": "2023-12-16 01:00:48",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1598,7 +1598,7 @@
         "test_f1_score": 0.8016153457849571,
         "training_time": 740.902745962143
     }
-}{
+},{
     "date": "2023-12-16 01:32:48",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1623,7 +1623,7 @@
         "test_f1_score": 0.7781598655051198,
         "training_time": 1764.3677179813385
     }
-}{
+},{
     "date": "2023-12-16 02:11:09",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1648,7 +1648,7 @@
         "test_f1_score": 0.7694110531488622,
         "training_time": 2119.9393231868744
     }
-}{
+},{
     "date": "2023-12-16 02:12:17",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1673,7 +1673,7 @@
         "test_f1_score": 0.6739357849843084,
         "training_time": 66.58578562736511
     }
-}{
+},{
     "date": "2023-12-16 02:16:01",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1698,7 +1698,7 @@
         "test_f1_score": 0.6686106076128931,
         "training_time": 220.77531909942627
     }
-}{
+},{
     "date": "2023-12-16 02:26:14",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1723,7 +1723,7 @@
         "test_f1_score": 0.6346700853331197,
         "training_time": 607.2454974651337
     }
-}{
+},{
     "date": "2023-12-16 02:31:08",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1748,7 +1748,7 @@
         "test_f1_score": 0.6516663983255514,
         "training_time": 291.32979011535645
     }
-}{
+},{
     "date": "2023-12-16 02:36:18",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1773,7 +1773,7 @@
         "test_f1_score": 0.6487413731200383,
         "training_time": 306.0734643936157
     }
-}{
+},{
     "date": "2023-12-16 02:41:27",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1798,7 +1798,7 @@
         "test_f1_score": 0.6522121769741579,
         "training_time": 305.5963499546051
     }
-}{
+},{
     "date": "2023-12-16 02:42:24",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1823,7 +1823,7 @@
         "test_f1_score": 0.8431271545746325,
         "training_time": 56.24370884895325
     }
-}{
+},{
     "date": "2023-12-16 02:45:33",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1848,7 +1848,7 @@
         "test_f1_score": 0.8330362448009507,
         "training_time": 186.7530996799469
     }
-}{
+},{
     "date": "2023-12-16 02:58:15",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1873,7 +1873,7 @@
         "test_f1_score": 0.8099547511312217,
         "training_time": 755.071052312851
     }
-}{
+},{
     "date": "2023-12-16 03:08:43",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1898,7 +1898,7 @@
         "test_f1_score": 0.815322643117205,
         "training_time": 623.4251391887665
     }
-}{
+},{
     "date": "2023-12-16 03:23:25",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1923,7 +1923,7 @@
         "test_f1_score": 0.8009200690051754,
         "training_time": 874.5285155773163
     }
-}{
+},{
     "date": "2023-12-16 03:42:07",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1948,7 +1948,7 @@
         "test_f1_score": 0.7925056363212315,
         "training_time": 1112.412653684616
     }
-}{
+},{
     "date": "2023-12-16 03:43:13",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1973,7 +1973,7 @@
         "test_f1_score": 0.8022391043582567,
         "training_time": 60.42163419723511
     }
-}{
+},{
     "date": "2023-12-16 03:46:57",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -1998,7 +1998,7 @@
         "test_f1_score": 0.7983036740517617,
         "training_time": 206.55586552619934
     }
-}{
+},{
     "date": "2023-12-16 04:05:59",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2023,7 +2023,7 @@
         "test_f1_score": 0.7743829854773432,
         "training_time": 1068.5378239154816
     }
-}{
+},{
     "date": "2023-12-16 04:22:02",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2048,7 +2048,7 @@
         "test_f1_score": 0.77906148611221,
         "training_time": 900.4159607887268
     }
-}{
+},{
     "date": "2023-12-16 04:40:35",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2073,7 +2073,7 @@
         "test_f1_score": 0.7736491839645064,
         "training_time": 1040.3141865730286
     }
-}{
+},{
     "date": "2023-12-16 04:49:54",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2098,7 +2098,7 @@
         "test_f1_score": 0.7878169401051887,
         "training_time": 519.7334723472595
     }
-}{
+},{
     "date": "2023-12-16 04:51:01",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2123,7 +2123,7 @@
         "test_f1_score": 0.6812935754520031,
         "training_time": 59.10670781135559
     }
-}{
+},{
     "date": "2023-12-16 04:55:04",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2148,7 +2148,7 @@
         "test_f1_score": 0.6784885778319505,
         "training_time": 213.6441445350647
     }
-}{
+},{
     "date": "2023-12-16 05:21:46",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2173,7 +2173,7 @@
         "test_f1_score": 0.6658322903629538,
         "training_time": 1413.1105906963348
     }
-}{
+},{
     "date": "2023-12-16 05:35:06",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2198,7 +2198,7 @@
         "test_f1_score": 0.6810608890549122,
         "training_time": 704.5150821208954
     }
-}{
+},{
     "date": "2023-12-16 05:52:21",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2223,7 +2223,7 @@
         "test_f1_score": 0.6673703256936068,
         "training_time": 911.5823752880096
     }
-}{
+},{
     "date": "2023-12-16 06:35:58",
     "algorithm": "SemiBoost",
     "dataset": "imdb",
@@ -2248,7 +2248,7 @@
         "test_f1_score": 0.6662862794324622,
         "training_time": 2316.494324684143
     }
-}{
+},{
     "date": "2023-12-16 06:35:58",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -2273,7 +2273,7 @@
         "test_f1_score": 0.7675675675675676,
         "training_time": 0.32466840744018555
     }
-}{
+},{
     "date": "2023-12-16 06:35:58",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -2298,7 +2298,7 @@
         "test_f1_score": 0.7675675675675676,
         "training_time": 0.17009782791137695
     }
-}{
+},{
     "date": "2023-12-16 06:54:32",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -2323,7 +2323,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 1105.5983419418335
     }
-}{
+},{
     "date": "2023-12-16 07:13:42",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -2348,7 +2348,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 1143.1321291923523
     }
-}{
+},{
     "date": "2023-12-16 13:05:28",
     "algorithm": "LapSVM",
     "dataset": "imdb",
@@ -2373,7 +2373,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 21036.938180446625
     }
-}{
+},{
     "date": "2023-12-16 18:57:00",
     "algorithm": "LapSVM",
     "dataset": "imdb",
@@ -2398,7 +2398,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 21026.74461698532
     }
-}{
+},{
     "date": "2023-12-16 18:57:00",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2423,7 +2423,7 @@
         "test_f1_score": 0.7675675675675676,
         "training_time": 0.012020111083984375
     }
-}{
+},{
     "date": "2023-12-16 18:57:01",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2448,7 +2448,7 @@
         "test_f1_score": 0.7675675675675676,
         "training_time": 0.014217376708984375
     }
-}{
+},{
     "date": "2023-12-16 18:57:01",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2473,7 +2473,7 @@
         "test_f1_score": 0.7675675675675676,
         "training_time": 0.013885498046875
     }
-}{
+},{
     "date": "2023-12-16 18:57:01",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2498,7 +2498,7 @@
         "test_f1_score": 0.7675675675675676,
         "training_time": 0.016355037689208984
     }
-}{
+},{
     "date": "2023-12-16 18:57:01",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2523,7 +2523,7 @@
         "test_f1_score": 0.8930817610062893,
         "training_time": 0.028092145919799805
     }
-}{
+},{
     "date": "2023-12-16 18:57:01",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2548,7 +2548,7 @@
         "test_f1_score": 0.9444444444444444,
         "training_time": 0.01638960838317871
     }
-}{
+},{
     "date": "2023-12-16 18:57:01",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2573,7 +2573,7 @@
         "test_f1_score": 0.8503937007874015,
         "training_time": 0.015183687210083008
     }
-}{
+},{
     "date": "2023-12-16 18:57:01",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2598,7 +2598,7 @@
         "test_f1_score": 0.0,
         "training_time": 0.013820171356201172
     }
-}{
+},{
     "date": "2023-12-16 18:57:01",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2623,7 +2623,7 @@
         "test_f1_score": 0.0,
         "training_time": 0.013745307922363281
     }
-}{
+},{
     "date": "2023-12-16 18:57:01",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -2648,7 +2648,7 @@
         "test_f1_score": 0.0,
         "training_time": 0.01660442352294922
     }
-}{
+},{
     "date": "2023-12-16 18:57:08",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2673,7 +2673,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 2.421534776687622
     }
-}{
+},{
     "date": "2023-12-16 18:57:13",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2698,7 +2698,7 @@
         "test_f1_score": 0.6668889629876625,
         "training_time": 2.3950958251953125
     }
-}{
+},{
     "date": "2023-12-16 18:57:20",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2723,7 +2723,7 @@
         "test_f1_score": 0.6673684210526315,
         "training_time": 2.933384418487549
     }
-}{
+},{
     "date": "2023-12-16 18:57:27",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2748,7 +2748,7 @@
         "test_f1_score": 0.5576036866359447,
         "training_time": 3.31937313079834
     }
-}{
+},{
     "date": "2023-12-16 18:57:34",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2773,7 +2773,7 @@
         "test_f1_score": 0.5548051948051947,
         "training_time": 3.314218282699585
     }
-}{
+},{
     "date": "2023-12-16 18:57:40",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2798,7 +2798,7 @@
         "test_f1_score": 0.0019980019980019984,
         "training_time": 2.5983846187591553
     }
-}{
+},{
     "date": "2023-12-16 18:57:46",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2823,7 +2823,7 @@
         "test_f1_score": 0.0,
         "training_time": 2.583575963973999
     }
-}{
+},{
     "date": "2023-12-16 18:57:52",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2848,7 +2848,7 @@
         "test_f1_score": 0.0,
         "training_time": 2.587207555770874
     }
-}{
+},{
     "date": "2023-12-16 18:57:58",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2873,7 +2873,7 @@
         "test_f1_score": 0.0,
         "training_time": 2.5907211303710938
     }
-}{
+},{
     "date": "2023-12-16 18:58:03",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -2898,7 +2898,7 @@
         "test_f1_score": 0.0,
         "training_time": 2.589534282684326
     }
-}{
+},{
     "date": "2023-12-16 18:58:58",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -2923,7 +2923,7 @@
         "test_f1_score": 0.7658148611827086,
         "training_time": 13.970540046691895
     }
-}{
+},{
     "date": "2023-12-16 18:59:40",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -2948,7 +2948,7 @@
         "test_f1_score": 0.7658148611827086,
         "training_time": 14.231593132019043
     }
-}{
+},{
     "date": "2023-12-16 19:00:23",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -2973,7 +2973,7 @@
         "test_f1_score": 0.7658039100180406,
         "training_time": 14.258937120437622
     }
-}{
+},{
     "date": "2023-12-16 19:01:08",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -2998,7 +2998,7 @@
         "test_f1_score": 0.7658509659613616,
         "training_time": 15.229650497436523
     }
-}{
+},{
     "date": "2023-12-16 19:01:53",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -3023,7 +3023,7 @@
         "test_f1_score": 0.76558493883232,
         "training_time": 15.356856107711792
     }
-}{
+},{
     "date": "2023-12-16 19:02:55",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -3048,7 +3048,7 @@
         "test_f1_score": 0.7189622468335067,
         "training_time": 27.935725450515747
     }
-}{
+},{
     "date": "2023-12-16 19:03:57",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -3073,7 +3073,7 @@
         "test_f1_score": 0.6350132422369784,
         "training_time": 28.077343225479126
     }
-}{
+},{
     "date": "2023-12-16 19:04:47",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -3098,7 +3098,7 @@
         "test_f1_score": 0.17361784675072744,
         "training_time": 17.19764018058777
     }
-}{
+},{
     "date": "2023-12-16 19:05:35",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -3123,7 +3123,7 @@
         "test_f1_score": 0.0020778390473907135,
         "training_time": 16.556605100631714
     }
-}{
+},{
     "date": "2023-12-16 19:06:25",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -3148,7 +3148,7 @@
         "test_f1_score": 0.0020778390473907135,
         "training_time": 16.416645288467407
     }
-}{
+},{
     "date": "2023-12-16 23:21:31",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -3173,7 +3173,7 @@
         "test_f1_score": 0.9466666666666668,
         "training_time": 0.668327808380127
     }
-}{
+},{
     "date": "2023-12-16 23:21:32",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -3198,7 +3198,7 @@
         "test_f1_score": 0.9466666666666668,
         "training_time": 0.3097996711730957
     }
-}{
+},{
     "date": "2023-12-16 23:21:32",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -3223,7 +3223,7 @@
         "test_f1_score": 0.9466666666666668,
         "training_time": 0.37722158432006836
     }
-}{
+},{
     "date": "2023-12-16 23:21:33",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -3248,7 +3248,7 @@
         "test_f1_score": 0.8352941176470587,
         "training_time": 0.3204960823059082
     }
-}{
+},{
     "date": "2023-12-16 23:21:33",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -3273,7 +3273,7 @@
         "test_f1_score": 0.8352941176470587,
         "training_time": 0.5183296203613281
     }
-}{
+},{
     "date": "2023-12-16 23:21:34",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -3298,7 +3298,7 @@
         "test_f1_score": 0.8352941176470587,
         "training_time": 0.30870556831359863
     }
-}{
+},{
     "date": "2023-12-16 23:21:34",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -3323,7 +3323,7 @@
         "test_f1_score": 0.7675675675675676,
         "training_time": 0.22954463958740234
     }
-}{
+},{
     "date": "2023-12-16 23:21:34",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -3348,7 +3348,7 @@
         "test_f1_score": 0.7675675675675676,
         "training_time": 0.21937990188598633
     }
-}{
+},{
     "date": "2023-12-16 23:21:34",
     "algorithm": "LapSVM",
     "dataset": "breast_cancer",
@@ -3373,7 +3373,7 @@
         "test_f1_score": 0.7675675675675676,
         "training_time": 0.21983695030212402
     }
-}{
+},{
     "date": "2023-12-16 23:38:39",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -3398,7 +3398,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 1016.405912399292
     }
-}{
+},{
     "date": "2023-12-16 23:56:45",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -3423,7 +3423,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 1078.7288494110107
     }
-}{
+},{
     "date": "2023-12-17 00:05:03",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -3448,7 +3448,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 491.0561330318451
     }
-}{
+},{
     "date": "2023-12-17 00:23:03",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -3473,7 +3473,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 1073.7911965847015
     }
-}{
+},{
     "date": "2023-12-17 00:49:20",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -3498,7 +3498,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 1569.8826677799225
     }
-}{
+},{
     "date": "2023-12-17 00:56:35",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -3523,7 +3523,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 427.6234474182129
     }
-}{
+},{
     "date": "2023-12-17 01:21:02",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -3548,7 +3548,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 1459.619306564331
     }
-}{
+},{
     "date": "2023-12-17 01:41:05",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -3573,7 +3573,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 1195.899785041809
     }
-}{
+},{
     "date": "2023-12-17 01:46:18",
     "algorithm": "LapSVM",
     "dataset": "cifar10",
@@ -3598,7 +3598,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 306.0810356140137
     }
-}{
+},{
     "date": "2023-12-17 07:35:45",
     "algorithm": "LapSVM",
     "dataset": "imdb",
@@ -3623,7 +3623,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 20896.394760131836
     }
-}{
+},{
     "date": "2023-12-17 13:33:18",
     "algorithm": "LapSVM",
     "dataset": "imdb",
@@ -3648,7 +3648,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 21393.662688970566
     }
-}{
+},{
     "date": "2023-12-17 19:22:07",
     "algorithm": "LapSVM",
     "dataset": "imdb",
@@ -3673,7 +3673,7 @@
         "test_f1_score": 0.6666666666666666,
         "training_time": 20870.237390995026
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3698,7 +3698,7 @@
         "test_f1_score": 0.3820224719101124,
         "training_time": 0.1408216953277588
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3723,7 +3723,7 @@
         "test_f1_score": 0.9577464788732394,
         "training_time": 0.0077724456787109375
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3748,7 +3748,7 @@
         "test_f1_score": 0.9583333333333334,
         "training_time": 0.00877690315246582
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3773,7 +3773,7 @@
         "test_f1_score": 0.965034965034965,
         "training_time": 0.008864164352416992
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3798,7 +3798,7 @@
         "test_f1_score": 0.9583333333333334,
         "training_time": 0.008573532104492188
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3823,7 +3823,7 @@
         "test_f1_score": 0.9583333333333334,
         "training_time": 0.008608341217041016
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3848,7 +3848,7 @@
         "test_f1_score": 0.9583333333333334,
         "training_time": 0.008450508117675781
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3873,7 +3873,7 @@
         "test_f1_score": 0.9583333333333334,
         "training_time": 0.00866079330444336
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3898,7 +3898,7 @@
         "test_f1_score": 0.9583333333333334,
         "training_time": 0.008901357650756836
     }
-}{
+},{
     "date": "2023-12-17 20:49:16",
     "algorithm": "LabelPropagation",
     "dataset": "breast_cancer",
@@ -3923,7 +3923,7 @@
         "test_f1_score": 0.9452054794520549,
         "training_time": 0.009144067764282227
     }
-}{
+},{
     "date": "2023-12-17 20:49:19",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -3948,7 +3948,7 @@
         "test_f1_score": 0.2596153846153846,
         "training_time": 0.6355199813842773
     }
-}{
+},{
     "date": "2023-12-17 20:49:20",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -3973,7 +3973,7 @@
         "test_f1_score": 0.5143824027072758,
         "training_time": 0.6509034633636475
     }
-}{
+},{
     "date": "2023-12-17 20:49:22",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -3998,7 +3998,7 @@
         "test_f1_score": 0.5234595816845675,
         "training_time": 0.654818058013916
     }
-}{
+},{
     "date": "2023-12-17 20:49:24",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -4023,7 +4023,7 @@
         "test_f1_score": 0.5966469428007889,
         "training_time": 0.7676541805267334
     }
-}{
+},{
     "date": "2023-12-17 20:49:25",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -4048,7 +4048,7 @@
         "test_f1_score": 0.5758039816232772,
         "training_time": 0.714348554611206
     }
-}{
+},{
     "date": "2023-12-17 20:49:27",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -4073,7 +4073,7 @@
         "test_f1_score": 0.5650596163815449,
         "training_time": 0.6917412281036377
     }
-}{
+},{
     "date": "2023-12-17 20:49:28",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -4098,7 +4098,7 @@
         "test_f1_score": 0.5763747454175153,
         "training_time": 0.7013087272644043
     }
-}{
+},{
     "date": "2023-12-17 20:49:29",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -4123,7 +4123,7 @@
         "test_f1_score": 0.5705394190871369,
         "training_time": 0.5078525543212891
     }
-}{
+},{
     "date": "2023-12-17 20:49:31",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -4148,7 +4148,7 @@
         "test_f1_score": 0.541914548404543,
         "training_time": 0.5236971378326416
     }
-}{
+},{
     "date": "2023-12-17 20:49:32",
     "algorithm": "LabelPropagation",
     "dataset": "cifar10",
@@ -4173,7 +4173,7 @@
         "test_f1_score": 0.5393743257820928,
         "training_time": 0.5164377689361572
     }
-}{
+},{
     "date": "2023-12-17 20:49:51",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4198,7 +4198,7 @@
         "test_f1_score": 0.3121317052426949,
         "training_time": 2.6545286178588867
     }
-}{
+},{
     "date": "2023-12-17 20:49:58",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4223,7 +4223,7 @@
         "test_f1_score": 0.6609197475202885,
         "training_time": 2.0410847663879395
     }
-}{
+},{
     "date": "2023-12-17 20:50:04",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4248,7 +4248,7 @@
         "test_f1_score": 0.6844819827616048,
         "training_time": 2.039341449737549
     }
-}{
+},{
     "date": "2023-12-17 20:50:11",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4273,7 +4273,7 @@
         "test_f1_score": 0.6873577929465301,
         "training_time": 2.0493314266204834
     }
-}{
+},{
     "date": "2023-12-17 20:50:17",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4298,7 +4298,7 @@
         "test_f1_score": 0.6950904392764858,
         "training_time": 2.0610125064849854
     }
-}{
+},{
     "date": "2023-12-17 20:50:24",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4323,7 +4323,7 @@
         "test_f1_score": 0.6958936858388413,
         "training_time": 2.0824637413024902
     }
-}{
+},{
     "date": "2023-12-17 20:50:30",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4348,7 +4348,7 @@
         "test_f1_score": 0.6994425087108014,
         "training_time": 2.119344711303711
     }
-}{
+},{
     "date": "2023-12-17 20:50:37",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4373,7 +4373,7 @@
         "test_f1_score": 0.7019353015962706,
         "training_time": 2.1482198238372803
     }
-}{
+},{
     "date": "2023-12-17 20:50:44",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4398,7 +4398,7 @@
         "test_f1_score": 0.7029990097609279,
         "training_time": 2.1552369594573975
     }
-}{
+},{
     "date": "2023-12-17 20:50:50",
     "algorithm": "LabelPropagation",
     "dataset": "imdb",
@@ -4423,4 +4423,4 @@
         "test_f1_score": 0.701293134243052,
         "training_time": 2.240396499633789
     }
-}
+}]
