@@ -1,0 +1,2483 @@
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.562, 'test_precision': 0.5492845786963434, 'test_recall': 0.691, 'test_f1_score': 0.6120460584588131, 'training_time': 20.969008684158325}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5525, 'test_precision': 0.5393258426966292, 'test_recall': 0.72, 'test_f1_score': 0.6167023554603854, 'training_time': 23.588780641555786}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.563, 'test_precision': 0.5785536159600998, 'test_recall': 0.464, 'test_f1_score': 0.5149833518312985, 'training_time': 20.11798930168152}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.563, 'test_precision': 0.5513866231647635, 'test_recall': 0.676, 'test_f1_score': 0.6073674752920037, 'training_time': 24.959158182144165}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.575, 'test_precision': 0.5815217391304348, 'test_recall': 0.535, 'test_f1_score': 0.5572916666666667, 'training_time': 19.29319477081299}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5885, 'test_precision': 0.5736885928393006, 'test_recall': 0.689, 'test_f1_score': 0.6260790549750114, 'training_time': 20.73327112197876}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5895, 'test_precision': 0.614596670934699, 'test_recall': 0.48, 'test_f1_score': 0.5390230207748455, 'training_time': 21.099461317062378}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.607, 'test_precision': 0.6181015452538632, 'test_recall': 0.56, 'test_f1_score': 0.5876180482686255, 'training_time': 21.567351818084717}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5885, 'test_precision': 0.5896656534954408, 'test_recall': 0.582, 'test_f1_score': 0.5858077503774535, 'training_time': 21.34977674484253}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5705, 'test_precision': 0.5591939546599496, 'test_recall': 0.666, 'test_f1_score': 0.6079415791875855, 'training_time': 22.811492204666138}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5765, 'test_precision': 0.5727878211227403, 'test_recall': 0.602, 'test_f1_score': 0.5870307167235495, 'training_time': 21.971328020095825}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.604, 'test_precision': 0.6135371179039302, 'test_recall': 0.562, 'test_f1_score': 0.5866388308977035, 'training_time': 20.99389362335205}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.604, 'test_precision': 0.6217798594847775, 'test_recall': 0.531, 'test_f1_score': 0.5728155339805826, 'training_time': 22.835654973983765}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.578, 'test_precision': 0.6185410334346505, 'test_recall': 0.407, 'test_f1_score': 0.4909529553679132, 'training_time': 22.835342168807983}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.596, 'test_precision': 0.6209068010075567, 'test_recall': 0.493, 'test_f1_score': 0.5496098104793756, 'training_time': 23.260271787643433}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6025, 'test_precision': 0.664, 'test_recall': 0.415, 'test_f1_score': 0.5107692307692309, 'training_time': 22.491630792617798}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.598, 'test_precision': 0.5929791271347249, 'test_recall': 0.625, 'test_f1_score': 0.6085686465433301, 'training_time': 23.12420153617859}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5975, 'test_precision': 0.6153846153846154, 'test_recall': 0.52, 'test_f1_score': 0.5636856368563685, 'training_time': 22.737759828567505}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6045, 'test_precision': 0.6301369863013698, 'test_recall': 0.506, 'test_f1_score': 0.5612867443150305, 'training_time': 27.33078694343567}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.614, 'test_precision': 0.6383495145631068, 'test_recall': 0.526, 'test_f1_score': 0.5767543859649124, 'training_time': 25.373915910720825}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.601, 'test_precision': 0.5984405458089669, 'test_recall': 0.614, 'test_f1_score': 0.6061204343534058, 'training_time': 25.48054265975952}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.584, 'test_precision': 0.5869565217391305, 'test_recall': 0.567, 'test_f1_score': 0.5768056968463886, 'training_time': 25.797781705856323}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.594, 'test_precision': 0.59251968503937, 'test_recall': 0.602, 'test_f1_score': 0.5972222222222222, 'training_time': 25.767134189605713}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.61, 'test_precision': 0.6354679802955665, 'test_recall': 0.516, 'test_f1_score': 0.5695364238410596, 'training_time': 25.747230768203735}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.604, 'test_precision': 0.63, 'test_recall': 0.504, 'test_f1_score': 0.56, 'training_time': 27.44718027114868}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.608, 'test_precision': 0.6395348837209303, 'test_recall': 0.495, 'test_f1_score': 0.5580608793686584, 'training_time': 28.305165767669678}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6175, 'test_precision': 0.6493011435832274, 'test_recall': 0.511, 'test_f1_score': 0.5719082260772244, 'training_time': 27.325879335403442}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.606, 'test_precision': 0.6645962732919255, 'test_recall': 0.428, 'test_f1_score': 0.5206812652068127, 'training_time': 26.728703260421753}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.622, 'test_precision': 0.6613756613756614, 'test_recall': 0.5, 'test_f1_score': 0.5694760820045558, 'training_time': 27.020658493041992}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.608, 'test_precision': 0.6146496815286624, 'test_recall': 0.579, 'test_f1_score': 0.5962924819773429, 'training_time': 27.568961143493652}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.601, 'test_precision': 0.5872193436960277, 'test_recall': 0.68, 'test_f1_score': 0.6302131603336423, 'training_time': 30.4517662525177}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.596, 'test_precision': 0.6276595744680851, 'test_recall': 0.472, 'test_f1_score': 0.5388127853881278, 'training_time': 28.99639391899109}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.608, 'test_precision': 0.640625, 'test_recall': 0.492, 'test_f1_score': 0.5565610859728507, 'training_time': 29.266451358795166}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5945, 'test_precision': 0.6235294117647059, 'test_recall': 0.477, 'test_f1_score': 0.5405099150141643, 'training_time': 28.80469584465027}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6135, 'test_precision': 0.6652110625909753, 'test_recall': 0.457, 'test_f1_score': 0.5417901600474214, 'training_time': 29.62148642539978}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6105, 'test_precision': 0.6154649947753396, 'test_recall': 0.589, 'test_f1_score': 0.6019417475728155, 'training_time': 31.277775526046753}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6305, 'test_precision': 0.6491428571428571, 'test_recall': 0.568, 'test_f1_score': 0.6058666666666666, 'training_time': 35.174463510513306}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6165, 'test_precision': 0.6429447852760736, 'test_recall': 0.524, 'test_f1_score': 0.5774104683195593, 'training_time': 32.904271364212036}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.601, 'test_precision': 0.5974903474903475, 'test_recall': 0.619, 'test_f1_score': 0.6080550098231827, 'training_time': 34.48711895942688}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.631, 'test_precision': 0.6937869822485208, 'test_recall': 0.469, 'test_f1_score': 0.5596658711217183, 'training_time': 32.82563805580139}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.609, 'test_precision': 0.6107723577235772, 'test_recall': 0.601, 'test_f1_score': 0.6058467741935483, 'training_time': 34.19709062576294}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.615, 'test_precision': 0.6129666011787819, 'test_recall': 0.624, 'test_f1_score': 0.6184340931615461, 'training_time': 34.104390144348145}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2500, 32, 32, 1), X_unlabeled shape: (7500, 32, 32, 1)
+y_labeled shape: (2500, 1)
+Training model
+X_train shape: (2500, 1024), X_unlabeled shape: (7500, 1024)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6325, 'test_precision': 0.6381647549530761, 'test_recall': 0.612, 'test_f1_score': 0.6248085758039815, 'training_time': 38.9577260017395}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2500, 32, 32, 1), X_unlabeled shape: (7500, 32, 32, 1)
+y_labeled shape: (2500, 1)
+Training model
+X_train shape: (2500, 1024), X_unlabeled shape: (7500, 1024)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6195, 'test_precision': 0.6424314660309892, 'test_recall': 0.539, 'test_f1_score': 0.5861881457313758, 'training_time': 38.036104917526245}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2500, 32, 32, 1), X_unlabeled shape: (7500, 32, 32, 1)
+y_labeled shape: (2500, 1)
+Training model
+X_train shape: (2500, 1024), X_unlabeled shape: (7500, 1024)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.617, 'test_precision': 0.648854961832061, 'test_recall': 0.51, 'test_f1_score': 0.5711086226203808, 'training_time': 38.808610916137695}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2500, 32, 32, 1), X_unlabeled shape: (7500, 32, 32, 1)
+y_labeled shape: (2500, 1)
+Training model
+X_train shape: (2500, 1024), X_unlabeled shape: (7500, 1024)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.617, 'test_precision': 0.6135922330097088, 'test_recall': 0.632, 'test_f1_score': 0.6226600985221675, 'training_time': 38.45262098312378}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2500, 32, 32, 1), X_unlabeled shape: (7500, 32, 32, 1)
+y_labeled shape: (2500, 1)
+Training model
+X_train shape: (2500, 1024), X_unlabeled shape: (7500, 1024)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.613, 'test_precision': 0.6252771618625277, 'test_recall': 0.564, 'test_f1_score': 0.5930599369085173, 'training_time': 37.25169062614441}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (2500, 32, 32, 1), X_unlabeled shape: (7500, 32, 32, 1)
+y_labeled shape: (2500, 1)
+Training model
+X_train shape: (2500, 1024), X_unlabeled shape: (7500, 1024)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6205, 'test_precision': 0.6337402885682575, 'test_recall': 0.571, 'test_f1_score': 0.6007364544976328, 'training_time': 37.25609612464905}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.63, 'test_precision': 0.6382978723404256, 'test_recall': 0.6, 'test_f1_score': 0.6185567010309279, 'training_time': 41.24087595939636}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.616, 'test_precision': 0.6390887290167866, 'test_recall': 0.533, 'test_f1_score': 0.5812431842966195, 'training_time': 40.65915012359619}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.626, 'test_precision': 0.6721311475409836, 'test_recall': 0.492, 'test_f1_score': 0.5681293302540414, 'training_time': 41.926936626434326}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6175, 'test_precision': 0.6284153005464481, 'test_recall': 0.575, 'test_f1_score': 0.6005221932114883, 'training_time': 40.66466450691223}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6225, 'test_precision': 0.6426076833527358, 'test_recall': 0.552, 'test_f1_score': 0.5938676707907479, 'training_time': 41.85775923728943}
+
+Alghoritm: Tri_Training
+Dataset: cifar10
+X_labeled shape: (3000, 32, 32, 1), X_unlabeled shape: (7000, 32, 32, 1)
+y_labeled shape: (3000, 1)
+Training model
+X_train shape: (3000, 1024), X_unlabeled shape: (7000, 1024)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6175, 'test_precision': 0.6456009913258984, 'test_recall': 0.521, 'test_f1_score': 0.5766463752075263, 'training_time': 41.98227000236511}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_labeled shape: (750,)
+Training model
+X_train shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_train shape: (750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.8128, 'test_precision': 0.8286266599428476, 'test_recall': 0.78872, 'test_f1_score': 0.8081809984424954, 'training_time': 6.555333852767944}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_labeled shape: (750,)
+Training model
+X_train shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_train shape: (750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.81544, 'test_precision': 0.8190129449838188, 'test_recall': 0.80984, 'test_f1_score': 0.8144006436041834, 'training_time': 6.699804067611694}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_labeled shape: (750,)
+Training model
+X_train shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_train shape: (750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.81436, 'test_precision': 0.8330931592777825, 'test_recall': 0.78624, 'test_f1_score': 0.8089887640449438, 'training_time': 6.658975601196289}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_labeled shape: (750,)
+Training model
+X_train shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_train shape: (750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.80996, 'test_precision': 0.8173998525436225, 'test_recall': 0.79824, 'test_f1_score': 0.8077063180475169, 'training_time': 6.635152339935303}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_labeled shape: (750,)
+Training model
+X_train shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_train shape: (750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.81764, 'test_precision': 0.8090123745038524, 'test_recall': 0.8316, 'test_f1_score': 0.8201506962799322, 'training_time': 6.711439609527588}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_labeled shape: (750,)
+Training model
+X_train shape: (750, 1000), X_unlabeled shape: (24250, 1000)
+y_train shape: (750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.82584, 'test_precision': 0.8270435201541674, 'test_recall': 0.824, 'test_f1_score': 0.8255189548769737, 'training_time': 6.673874139785767}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_labeled shape: (1250,)
+Training model
+X_train shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_train shape: (1250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.82188, 'test_precision': 0.8273533479781954, 'test_recall': 0.81352, 'test_f1_score': 0.8203783631156467, 'training_time': 7.740473031997681}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_labeled shape: (1250,)
+Training model
+X_train shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_train shape: (1250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.82392, 'test_precision': 0.8317221038833361, 'test_recall': 0.81216, 'test_f1_score': 0.8218246579778191, 'training_time': 7.794657945632935}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_labeled shape: (1250,)
+Training model
+X_train shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_train shape: (1250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.82848, 'test_precision': 0.8198317494936906, 'test_recall': 0.842, 'test_f1_score': 0.8307680164180283, 'training_time': 7.867262601852417}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_labeled shape: (1250,)
+Training model
+X_train shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_train shape: (1250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.82516, 'test_precision': 0.8234264343120872, 'test_recall': 0.82784, 'test_f1_score': 0.8256273187856543, 'training_time': 7.780459642410278}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_labeled shape: (1250,)
+Training model
+X_train shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_train shape: (1250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.81684, 'test_precision': 0.8208181449979749, 'test_recall': 0.81064, 'test_f1_score': 0.8156973234051117, 'training_time': 7.602171421051025}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_labeled shape: (1250,)
+Training model
+X_train shape: (1250, 1000), X_unlabeled shape: (23750, 1000)
+y_train shape: (1250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.8268, 'test_precision': 0.8240520387117246, 'test_recall': 0.83104, 'test_f1_score': 0.8275312674261133, 'training_time': 7.72145938873291}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_labeled shape: (1750,)
+Training model
+X_train shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_train shape: (1750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.82984, 'test_precision': 0.8358038768529077, 'test_recall': 0.82096, 'test_f1_score': 0.8283154411171201, 'training_time': 8.814921617507935}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_labeled shape: (1750,)
+Training model
+X_train shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_train shape: (1750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83116, 'test_precision': 0.8330517338482581, 'test_recall': 0.82832, 'test_f1_score': 0.8306791287255807, 'training_time': 8.950697422027588}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_labeled shape: (1750,)
+Training model
+X_train shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_train shape: (1750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83024, 'test_precision': 0.8350649350649351, 'test_recall': 0.82304, 'test_f1_score': 0.8290088638195003, 'training_time': 8.837666273117065}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_labeled shape: (1750,)
+Training model
+X_train shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_train shape: (1750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83164, 'test_precision': 0.8338030437233271, 'test_recall': 0.8284, 'test_f1_score': 0.8310927404791525, 'training_time': 8.922876834869385}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_labeled shape: (1750,)
+Training model
+X_train shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_train shape: (1750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.82636, 'test_precision': 0.837343917969073, 'test_recall': 0.81008, 'test_f1_score': 0.8234863579067215, 'training_time': 8.901779651641846}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_labeled shape: (1750,)
+Training model
+X_train shape: (1750, 1000), X_unlabeled shape: (23250, 1000)
+y_train shape: (1750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83016, 'test_precision': 0.8350381555447313, 'test_recall': 0.82288, 'test_f1_score': 0.8289144975421064, 'training_time': 8.910932779312134}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_labeled shape: (2500,)
+Training model
+X_train shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83656, 'test_precision': 0.8377488760436738, 'test_recall': 0.8348, 'test_f1_score': 0.8362718384356467, 'training_time': 10.590904235839844}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_labeled shape: (2500,)
+Training model
+X_train shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83888, 'test_precision': 0.8411177323240457, 'test_recall': 0.8356, 'test_f1_score': 0.8383497873023517, 'training_time': 10.657166957855225}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_labeled shape: (2500,)
+Training model
+X_train shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83524, 'test_precision': 0.8386809989493251, 'test_recall': 0.83016, 'test_f1_score': 0.8343987456277892, 'training_time': 10.576208353042603}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_labeled shape: (2500,)
+Training model
+X_train shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83716, 'test_precision': 0.8402357310083152, 'test_recall': 0.83264, 'test_f1_score': 0.8364206212078595, 'training_time': 10.773796558380127}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_labeled shape: (2500,)
+Training model
+X_train shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83296, 'test_precision': 0.8348350764279968, 'test_recall': 0.83016, 'test_f1_score': 0.8324909747292419, 'training_time': 10.617769956588745}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_labeled shape: (2500,)
+Training model
+X_train shape: (2500, 1000), X_unlabeled shape: (22500, 1000)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83404, 'test_precision': 0.8357320897322505, 'test_recall': 0.83152, 'test_f1_score': 0.8336207242250472, 'training_time': 10.770447731018066}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_labeled shape: (3000,)
+Training model
+X_train shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.8388, 'test_precision': 0.8337799495586381, 'test_recall': 0.84632, 'test_f1_score': 0.8400031761156106, 'training_time': 11.856079578399658}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_labeled shape: (3000,)
+Training model
+X_train shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83768, 'test_precision': 0.8411736178467507, 'test_recall': 0.83256, 'test_f1_score': 0.836844644580251, 'training_time': 11.78971791267395}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_labeled shape: (3000,)
+Training model
+X_train shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83896, 'test_precision': 0.8424668606530876, 'test_recall': 0.83384, 'test_f1_score': 0.8381312319073657, 'training_time': 11.7649564743042}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_labeled shape: (3000,)
+Training model
+X_train shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83588, 'test_precision': 0.8335584333042028, 'test_recall': 0.83936, 'test_f1_score': 0.83644915693387, 'training_time': 11.800309419631958}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_labeled shape: (3000,)
+Training model
+X_train shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.8336, 'test_precision': 0.8348321824313474, 'test_recall': 0.83176, 'test_f1_score': 0.8332932595976597, 'training_time': 11.629745244979858}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_labeled shape: (3000,)
+Training model
+X_train shape: (3000, 1000), X_unlabeled shape: (22000, 1000)
+y_train shape: (3000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83072, 'test_precision': 0.8285646161182642, 'test_recall': 0.834, 'test_f1_score': 0.8312734231719958, 'training_time': 9.757523775100708}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_labeled shape: (3750,)
+Training model
+X_train shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_train shape: (3750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83552, 'test_precision': 0.8325931800158605, 'test_recall': 0.83992, 'test_f1_score': 0.8362405416168858, 'training_time': 10.906233787536621}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_labeled shape: (3750,)
+Training model
+X_train shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_train shape: (3750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83936, 'test_precision': 0.8440389294403893, 'test_recall': 0.83256, 'test_f1_score': 0.8382601691502214, 'training_time': 13.534132719039917}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_labeled shape: (3750,)
+Training model
+X_train shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_train shape: (3750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84016, 'test_precision': 0.8405959628324255, 'test_recall': 0.83952, 'test_f1_score': 0.8400576368876082, 'training_time': 11.038736343383789}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_labeled shape: (3750,)
+Training model
+X_train shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_train shape: (3750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.83892, 'test_precision': 0.8366844154812048, 'test_recall': 0.84224, 'test_f1_score': 0.8394530159869233, 'training_time': 11.20571494102478}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_labeled shape: (3750,)
+Training model
+X_train shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_train shape: (3750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84204, 'test_precision': 0.8443817962142569, 'test_recall': 0.83864, 'test_f1_score': 0.8415011037527594, 'training_time': 11.314537286758423}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_labeled shape: (3750,)
+Training model
+X_train shape: (3750, 1000), X_unlabeled shape: (21250, 1000)
+y_train shape: (3750,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.841, 'test_precision': 0.840754656647214, 'test_recall': 0.84136, 'test_f1_score': 0.8410572194010156, 'training_time': 11.03607177734375}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_labeled shape: (5000,)
+Training model
+X_train shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_train shape: (5000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84232, 'test_precision': 0.8377802336596147, 'test_recall': 0.84904, 'test_f1_score': 0.8433725365543547, 'training_time': 13.010851383209229}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_labeled shape: (5000,)
+Training model
+X_train shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_train shape: (5000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84204, 'test_precision': 0.8390831945435799, 'test_recall': 0.8464, 'test_f1_score': 0.8427257158787687, 'training_time': 13.208657026290894}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_labeled shape: (5000,)
+Training model
+X_train shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_train shape: (5000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84184, 'test_precision': 0.8420589177073327, 'test_recall': 0.84152, 'test_f1_score': 0.8417893725992318, 'training_time': 13.53477954864502}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_labeled shape: (5000,)
+Training model
+X_train shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_train shape: (5000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84364, 'test_precision': 0.8423527536462899, 'test_recall': 0.84552, 'test_f1_score': 0.8439334051982275, 'training_time': 13.362911462783813}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_labeled shape: (5000,)
+Training model
+X_train shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_train shape: (5000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84444, 'test_precision': 0.8424401495267637, 'test_recall': 0.84736, 'test_f1_score': 0.8448929126949308, 'training_time': 13.549768209457397}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_labeled shape: (5000,)
+Training model
+X_train shape: (5000, 1000), X_unlabeled shape: (20000, 1000)
+y_train shape: (5000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84536, 'test_precision': 0.8454152664426309, 'test_recall': 0.84528, 'test_f1_score': 0.8453476278102249, 'training_time': 13.31690001487732}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_labeled shape: (6250,)
+Training model
+X_train shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_train shape: (6250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.8468, 'test_precision': 0.8454733822123047, 'test_recall': 0.84872, 'test_f1_score': 0.8470935803257745, 'training_time': 15.884260416030884}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_labeled shape: (6250,)
+Training model
+X_train shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_train shape: (6250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84508, 'test_precision': 0.8420426611688209, 'test_recall': 0.84952, 'test_f1_score': 0.8457648042690454, 'training_time': 15.66006326675415}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_labeled shape: (6250,)
+Training model
+X_train shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_train shape: (6250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.8436, 'test_precision': 0.8411437648927721, 'test_recall': 0.8472, 'test_f1_score': 0.8441610203268235, 'training_time': 15.736864805221558}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_labeled shape: (6250,)
+Training model
+X_train shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_train shape: (6250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.8436, 'test_precision': 0.8423401881077635, 'test_recall': 0.84544, 'test_f1_score': 0.843887247464665, 'training_time': 15.950758934020996}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_labeled shape: (6250,)
+Training model
+X_train shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_train shape: (6250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84676, 'test_precision': 0.8443085233140043, 'test_recall': 0.85032, 'test_f1_score': 0.8473035991868947, 'training_time': 15.681097269058228}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_labeled shape: (6250,)
+Training model
+X_train shape: (6250, 1000), X_unlabeled shape: (18750, 1000)
+y_train shape: (6250,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84452, 'test_precision': 0.8421930870083433, 'test_recall': 0.84792, 'test_f1_score': 0.8450468407414788, 'training_time': 15.94900631904602}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84592, 'test_precision': 0.8424136838770985, 'test_recall': 0.85104, 'test_f1_score': 0.8467048710601719, 'training_time': 18.43531608581543}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84896, 'test_precision': 0.8471824259789876, 'test_recall': 0.85152, 'test_f1_score': 0.8493456750718164, 'training_time': 18.12678074836731}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84944, 'test_precision': 0.8471626132570339, 'test_recall': 0.85272, 'test_f1_score': 0.8499322223108206, 'training_time': 18.221089601516724}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.845, 'test_precision': 0.8415841584158416, 'test_recall': 0.85, 'test_f1_score': 0.845771144278607, 'training_time': 17.936208486557007}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84712, 'test_precision': 0.8468979852894147, 'test_recall': 0.84744, 'test_f1_score': 0.847168905950096, 'training_time': 18.074451446533203}
+
+Alghoritm: Tri_Training
+Dataset: imdb
+X_labeled shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_labeled shape: (7500,)
+Training model
+X_train shape: (7500, 1000), X_unlabeled shape: (17500, 1000)
+y_train shape: (7500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+imdb Results: {'test_accuracy': 0.84464, 'test_precision': 0.8421763304209691, 'test_recall': 0.84824, 'test_f1_score': 0.8451972897568752, 'training_time': 17.918973922729492}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (13, 30), X_unlabeled shape: (442, 30)
+y_labeled shape: (13,)
+Training model
+X_train shape: (13, 30), X_unlabeled shape: (442, 30)
+y_train shape: (13,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9473684210526315, 'test_precision': 0.9333333333333333, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9589041095890412, 'training_time': 0.41294145584106445}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (13, 30), X_unlabeled shape: (442, 30)
+y_labeled shape: (13,)
+Training model
+X_train shape: (13, 30), X_unlabeled shape: (442, 30)
+y_train shape: (13,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9385964912280702, 'test_precision': 0.9324324324324325, 'test_recall': 0.971830985915493, 'test_f1_score': 0.9517241379310345, 'training_time': 0.4481627941131592}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (13, 30), X_unlabeled shape: (442, 30)
+y_labeled shape: (13,)
+Training model
+X_train shape: (13, 30), X_unlabeled shape: (442, 30)
+y_train shape: (13,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 1.0, 'test_recall': 0.9436619718309859, 'test_f1_score': 0.9710144927536231, 'training_time': 0.6433167457580566}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (13, 30), X_unlabeled shape: (442, 30)
+y_labeled shape: (13,)
+Training model
+X_train shape: (13, 30), X_unlabeled shape: (442, 30)
+y_train shape: (13,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.8245614035087719, 'test_precision': 0.7802197802197802, 'test_recall': 1.0, 'test_f1_score': 0.8765432098765432, 'training_time': 0.4110534191131592}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (13, 30), X_unlabeled shape: (442, 30)
+y_labeled shape: (13,)
+Training model
+X_train shape: (13, 30), X_unlabeled shape: (442, 30)
+y_train shape: (13,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.8421052631578947, 'test_precision': 0.797752808988764, 'test_recall': 1.0, 'test_f1_score': 0.8875, 'training_time': 0.4777352809906006}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (13, 30), X_unlabeled shape: (442, 30)
+y_labeled shape: (13,)
+Training model
+X_train shape: (13, 30), X_unlabeled shape: (442, 30)
+y_train shape: (13,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9722222222222222, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.979020979020979, 'training_time': 0.4483957290649414}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (22, 30), X_unlabeled shape: (433, 30)
+y_labeled shape: (22,)
+Training model
+X_train shape: (22, 30), X_unlabeled shape: (433, 30)
+y_train shape: (22,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9342105263157895, 'test_recall': 1.0, 'test_f1_score': 0.9659863945578232, 'training_time': 0.44257569313049316}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (22, 30), X_unlabeled shape: (433, 30)
+y_labeled shape: (22,)
+Training model
+X_train shape: (22, 30), X_unlabeled shape: (433, 30)
+y_train shape: (22,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.9855072463768116, 'test_recall': 0.9577464788732394, 'test_f1_score': 0.9714285714285714, 'training_time': 0.4493393898010254}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (22, 30), X_unlabeled shape: (433, 30)
+y_labeled shape: (22,)
+Training model
+X_train shape: (22, 30), X_unlabeled shape: (433, 30)
+y_train shape: (22,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9473684210526315, 'test_precision': 1.0, 'test_recall': 0.9154929577464789, 'test_f1_score': 0.9558823529411764, 'training_time': 0.4705021381378174}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (22, 30), X_unlabeled shape: (433, 30)
+y_labeled shape: (22,)
+Training model
+X_train shape: (22, 30), X_unlabeled shape: (433, 30)
+y_train shape: (22,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9594594594594594, 'test_recall': 1.0, 'test_f1_score': 0.9793103448275862, 'training_time': 0.4508352279663086}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (22, 30), X_unlabeled shape: (433, 30)
+y_labeled shape: (22,)
+Training model
+X_train shape: (22, 30), X_unlabeled shape: (433, 30)
+y_train shape: (22,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 1.0, 'test_recall': 0.9577464788732394, 'test_f1_score': 0.9784172661870503, 'training_time': 0.46037864685058594}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (22, 30), X_unlabeled shape: (433, 30)
+y_labeled shape: (22,)
+Training model
+X_train shape: (22, 30), X_unlabeled shape: (433, 30)
+y_train shape: (22,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9473684210526315, 'test_precision': 0.9333333333333333, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9589041095890412, 'training_time': 0.456298828125}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (31, 30), X_unlabeled shape: (424, 30)
+y_labeled shape: (31,)
+Training model
+X_train shape: (31, 30), X_unlabeled shape: (424, 30)
+y_train shape: (31,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9824561403508771, 'test_precision': 0.9859154929577465, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9859154929577465, 'training_time': 0.6530632972717285}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (31, 30), X_unlabeled shape: (424, 30)
+y_labeled shape: (31,)
+Training model
+X_train shape: (31, 30), X_unlabeled shape: (424, 30)
+y_train shape: (31,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.470261812210083}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (31, 30), X_unlabeled shape: (424, 30)
+y_labeled shape: (31,)
+Training model
+X_train shape: (31, 30), X_unlabeled shape: (424, 30)
+y_train shape: (31,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9824561403508771, 'test_precision': 0.9859154929577465, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9859154929577465, 'training_time': 0.7148189544677734}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (31, 30), X_unlabeled shape: (424, 30)
+y_labeled shape: (31,)
+Training model
+X_train shape: (31, 30), X_unlabeled shape: (424, 30)
+y_train shape: (31,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.4535374641418457}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (31, 30), X_unlabeled shape: (424, 30)
+y_labeled shape: (31,)
+Training model
+X_train shape: (31, 30), X_unlabeled shape: (424, 30)
+y_train shape: (31,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9857142857142858, 'test_recall': 0.971830985915493, 'test_f1_score': 0.9787234042553192, 'training_time': 0.7264368534088135}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (31, 30), X_unlabeled shape: (424, 30)
+y_labeled shape: (31,)
+Training model
+X_train shape: (31, 30), X_unlabeled shape: (424, 30)
+y_train shape: (31,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.7197868824005127}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (45, 30), X_unlabeled shape: (410, 30)
+y_labeled shape: (45,)
+Training model
+X_train shape: (45, 30), X_unlabeled shape: (410, 30)
+y_train shape: (45,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9824561403508771, 'test_precision': 0.9859154929577465, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9859154929577465, 'training_time': 0.4504070281982422}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (45, 30), X_unlabeled shape: (410, 30)
+y_labeled shape: (45,)
+Training model
+X_train shape: (45, 30), X_unlabeled shape: (410, 30)
+y_train shape: (45,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9342105263157895, 'test_recall': 1.0, 'test_f1_score': 0.9659863945578232, 'training_time': 0.4796020984649658}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (45, 30), X_unlabeled shape: (410, 30)
+y_labeled shape: (45,)
+Training model
+X_train shape: (45, 30), X_unlabeled shape: (410, 30)
+y_train shape: (45,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.4817981719970703}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (45, 30), X_unlabeled shape: (410, 30)
+y_labeled shape: (45,)
+Training model
+X_train shape: (45, 30), X_unlabeled shape: (410, 30)
+y_train shape: (45,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9722222222222222, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.979020979020979, 'training_time': 0.482257604598999}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (45, 30), X_unlabeled shape: (410, 30)
+y_labeled shape: (45,)
+Training model
+X_train shape: (45, 30), X_unlabeled shape: (410, 30)
+y_train shape: (45,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9722222222222222, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.979020979020979, 'training_time': 0.42583560943603516}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (45, 30), X_unlabeled shape: (410, 30)
+y_labeled shape: (45,)
+Training model
+X_train shape: (45, 30), X_unlabeled shape: (410, 30)
+y_train shape: (45,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.48372483253479004}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (54, 30), X_unlabeled shape: (401, 30)
+y_labeled shape: (54,)
+Training model
+X_train shape: (54, 30), X_unlabeled shape: (401, 30)
+y_train shape: (54,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.971830985915493, 'test_recall': 0.971830985915493, 'test_f1_score': 0.971830985915493, 'training_time': 0.478039026260376}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (54, 30), X_unlabeled shape: (401, 30)
+y_labeled shape: (54,)
+Training model
+X_train shape: (54, 30), X_unlabeled shape: (401, 30)
+y_train shape: (54,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.4609501361846924}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (54, 30), X_unlabeled shape: (401, 30)
+y_labeled shape: (54,)
+Training model
+X_train shape: (54, 30), X_unlabeled shape: (401, 30)
+y_train shape: (54,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9473684210526315, 'test_precision': 0.9452054794520548, 'test_recall': 0.971830985915493, 'test_f1_score': 0.9583333333333334, 'training_time': 0.45739221572875977}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (54, 30), X_unlabeled shape: (401, 30)
+y_labeled shape: (54,)
+Training model
+X_train shape: (54, 30), X_unlabeled shape: (401, 30)
+y_train shape: (54,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.6044666767120361}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (54, 30), X_unlabeled shape: (401, 30)
+y_labeled shape: (54,)
+Training model
+X_train shape: (54, 30), X_unlabeled shape: (401, 30)
+y_train shape: (54,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9722222222222222, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.979020979020979, 'training_time': 0.6534690856933594}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (54, 30), X_unlabeled shape: (401, 30)
+y_labeled shape: (54,)
+Training model
+X_train shape: (54, 30), X_unlabeled shape: (401, 30)
+y_train shape: (54,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.9466666666666667, 'test_recall': 1.0, 'test_f1_score': 0.9726027397260273, 'training_time': 0.658808708190918}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (68, 30), X_unlabeled shape: (387, 30)
+y_labeled shape: (68,)
+Training model
+X_train shape: (68, 30), X_unlabeled shape: (387, 30)
+y_train shape: (68,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9824561403508771, 'test_precision': 0.9859154929577465, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9859154929577465, 'training_time': 0.4798102378845215}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (68, 30), X_unlabeled shape: (387, 30)
+y_labeled shape: (68,)
+Training model
+X_train shape: (68, 30), X_unlabeled shape: (387, 30)
+y_train shape: (68,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9722222222222222, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.979020979020979, 'training_time': 0.4885900020599365}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (68, 30), X_unlabeled shape: (387, 30)
+y_labeled shape: (68,)
+Training model
+X_train shape: (68, 30), X_unlabeled shape: (387, 30)
+y_train shape: (68,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.7249641418457031}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (68, 30), X_unlabeled shape: (387, 30)
+y_labeled shape: (68,)
+Training model
+X_train shape: (68, 30), X_unlabeled shape: (387, 30)
+y_train shape: (68,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.4796273708343506}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (68, 30), X_unlabeled shape: (387, 30)
+y_labeled shape: (68,)
+Training model
+X_train shape: (68, 30), X_unlabeled shape: (387, 30)
+y_train shape: (68,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.48618507385253906}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (68, 30), X_unlabeled shape: (387, 30)
+y_labeled shape: (68,)
+Training model
+X_train shape: (68, 30), X_unlabeled shape: (387, 30)
+y_train shape: (68,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.9855072463768116, 'test_recall': 0.9577464788732394, 'test_f1_score': 0.9714285714285714, 'training_time': 0.6880433559417725}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (91, 30), X_unlabeled shape: (364, 30)
+y_labeled shape: (91,)
+Training model
+X_train shape: (91, 30), X_unlabeled shape: (364, 30)
+y_train shape: (91,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.9855072463768116, 'test_recall': 0.9577464788732394, 'test_f1_score': 0.9714285714285714, 'training_time': 0.6941092014312744}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (91, 30), X_unlabeled shape: (364, 30)
+y_labeled shape: (91,)
+Training model
+X_train shape: (91, 30), X_unlabeled shape: (364, 30)
+y_train shape: (91,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9722222222222222, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.979020979020979, 'training_time': 0.4216032028198242}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (91, 30), X_unlabeled shape: (364, 30)
+y_labeled shape: (91,)
+Training model
+X_train shape: (91, 30), X_unlabeled shape: (364, 30)
+y_train shape: (91,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9583333333333334, 'test_recall': 0.971830985915493, 'test_f1_score': 0.965034965034965, 'training_time': 0.5166525840759277}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (91, 30), X_unlabeled shape: (364, 30)
+y_labeled shape: (91,)
+Training model
+X_train shape: (91, 30), X_unlabeled shape: (364, 30)
+y_train shape: (91,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.4840049743652344}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (91, 30), X_unlabeled shape: (364, 30)
+y_labeled shape: (91,)
+Training model
+X_train shape: (91, 30), X_unlabeled shape: (364, 30)
+y_train shape: (91,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.49227213859558105}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (91, 30), X_unlabeled shape: (364, 30)
+y_labeled shape: (91,)
+Training model
+X_train shape: (91, 30), X_unlabeled shape: (364, 30)
+y_train shape: (91,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.4897456169128418}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (113, 30), X_unlabeled shape: (342, 30)
+y_labeled shape: (113,)
+Training model
+X_train shape: (113, 30), X_unlabeled shape: (342, 30)
+y_train shape: (113,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9722222222222222, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.979020979020979, 'training_time': 0.5029921531677246}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (113, 30), X_unlabeled shape: (342, 30)
+y_labeled shape: (113,)
+Training model
+X_train shape: (113, 30), X_unlabeled shape: (342, 30)
+y_train shape: (113,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.6972744464874268}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (113, 30), X_unlabeled shape: (342, 30)
+y_labeled shape: (113,)
+Training model
+X_train shape: (113, 30), X_unlabeled shape: (342, 30)
+y_train shape: (113,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.49533653259277344}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (113, 30), X_unlabeled shape: (342, 30)
+y_labeled shape: (113,)
+Training model
+X_train shape: (113, 30), X_unlabeled shape: (342, 30)
+y_train shape: (113,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.7202086448669434}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (113, 30), X_unlabeled shape: (342, 30)
+y_labeled shape: (113,)
+Training model
+X_train shape: (113, 30), X_unlabeled shape: (342, 30)
+y_train shape: (113,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.6949512958526611}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (113, 30), X_unlabeled shape: (342, 30)
+y_labeled shape: (113,)
+Training model
+X_train shape: (113, 30), X_unlabeled shape: (342, 30)
+y_train shape: (113,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9824561403508771, 'test_precision': 0.9859154929577465, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9859154929577465, 'training_time': 0.5297055244445801}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.956140350877193, 'test_precision': 0.9459459459459459, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9655172413793103, 'training_time': 0.6898272037506104}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9857142857142858, 'test_recall': 0.971830985915493, 'test_f1_score': 0.9787234042553192, 'training_time': 0.46826672554016113}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9722222222222222, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.979020979020979, 'training_time': 0.5008323192596436}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9736842105263158, 'test_precision': 0.9857142857142858, 'test_recall': 0.971830985915493, 'test_f1_score': 0.9787234042553192, 'training_time': 0.4707362651824951}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.4976010322570801}
+
+Alghoritm: Tri_Training
+Dataset: breast_cancer
+X_labeled shape: (136, 30), X_unlabeled shape: (319, 30)
+y_labeled shape: (136,)
+Training model
+X_train shape: (136, 30), X_unlabeled shape: (319, 30)
+y_train shape: (136,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+breast_cancer Results: {'test_accuracy': 0.9649122807017544, 'test_precision': 0.958904109589041, 'test_recall': 0.9859154929577465, 'test_f1_score': 0.9722222222222222, 'training_time': 0.7003450393676758}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.551, 'test_precision': 0.5692934782608695, 'test_recall': 0.419, 'test_f1_score': 0.4827188940092166, 'training_time': 401.5818736553192}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.568, 'test_precision': 0.5601769911504425, 'test_recall': 0.633, 'test_f1_score': 0.5943661971830986, 'training_time': 396.8017210960388}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.553, 'test_precision': 0.6472222222222223, 'test_recall': 0.233, 'test_f1_score': 0.3426470588235294, 'training_time': 271.45128178596497}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5785, 'test_precision': 0.5781094527363184, 'test_recall': 0.581, 'test_f1_score': 0.5795511221945138, 'training_time': 401.8588435649872}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5725, 'test_precision': 0.5937904269081501, 'test_recall': 0.459, 'test_f1_score': 0.5177664974619289, 'training_time': 407.02364563941956}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (300, 32, 32, 1), X_unlabeled shape: (9700, 32, 32, 1)
+y_labeled shape: (300, 1)
+Training model
+X_train shape: (300, 1024), X_unlabeled shape: (9700, 1024)
+y_train shape: (300,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5605, 'test_precision': 0.5515771526001705, 'test_recall': 0.647, 'test_f1_score': 0.5954901058444547, 'training_time': 405.4033968448639}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5865, 'test_precision': 0.6569872958257713, 'test_recall': 0.362, 'test_f1_score': 0.46679561573178596, 'training_time': 448.8226890563965}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.572, 'test_precision': 0.5733197556008147, 'test_recall': 0.563, 'test_f1_score': 0.5681130171543896, 'training_time': 442.9344871044159}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5085, 'test_precision': 0.5162523900573613, 'test_recall': 0.27, 'test_f1_score': 0.35456336178594877, 'training_time': 454.876341342926}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.574, 'test_precision': 0.5673952641165756, 'test_recall': 0.623, 'test_f1_score': 0.5938989513822688, 'training_time': 438.1868245601654}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5715, 'test_precision': 0.5663881151346333, 'test_recall': 0.61, 'test_f1_score': 0.5873856523832451, 'training_time': 452.12598991394043}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (500, 32, 32, 1), X_unlabeled shape: (9500, 32, 32, 1)
+y_labeled shape: (500, 1)
+Training model
+X_train shape: (500, 1024), X_unlabeled shape: (9500, 1024)
+y_train shape: (500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.583, 'test_precision': 0.6094986807387863, 'test_recall': 0.462, 'test_f1_score': 0.5255972696245734, 'training_time': 447.3170745372772}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5665, 'test_precision': 0.5723612622415669, 'test_recall': 0.526, 'test_f1_score': 0.5482021886399168, 'training_time': 485.46588134765625}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.562, 'test_precision': 0.5649895178197065, 'test_recall': 0.539, 'test_f1_score': 0.5516888433981577, 'training_time': 471.671422958374}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.567, 'test_precision': 0.5695020746887967, 'test_recall': 0.549, 'test_f1_score': 0.5590631364562118, 'training_time': 476.04559898376465}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.569, 'test_precision': 0.5667311411992263, 'test_recall': 0.586, 'test_f1_score': 0.576204523107178, 'training_time': 468.3232102394104}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.57, 'test_precision': 0.6236749116607774, 'test_recall': 0.353, 'test_f1_score': 0.4508301404853129, 'training_time': 486.58925914764404}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (700, 32, 32, 1), X_unlabeled shape: (9300, 32, 32, 1)
+y_labeled shape: (700, 1)
+Training model
+X_train shape: (700, 1024), X_unlabeled shape: (9300, 1024)
+y_train shape: (700,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.553, 'test_precision': 0.5757142857142857, 'test_recall': 0.403, 'test_f1_score': 0.47411764705882353, 'training_time': 483.7924118041992}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.591, 'test_precision': 0.591, 'test_recall': 0.591, 'test_f1_score': 0.591, 'training_time': 536.4286806583405}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.545, 'test_precision': 0.532991202346041, 'test_recall': 0.727, 'test_f1_score': 0.6150592216582064, 'training_time': 543.0834982395172}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.598, 'test_precision': 0.5879712746858169, 'test_recall': 0.655, 'test_f1_score': 0.619678334910123, 'training_time': 528.4738039970398}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.589, 'test_precision': 0.5833333333333334, 'test_recall': 0.623, 'test_f1_score': 0.602514506769826, 'training_time': 538.9049270153046}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.591, 'test_precision': 0.6157760814249363, 'test_recall': 0.484, 'test_f1_score': 0.5419932810750279, 'training_time': 530.6554317474365}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1000, 32, 32, 1), X_unlabeled shape: (9000, 32, 32, 1)
+y_labeled shape: (1000, 1)
+Training model
+X_train shape: (1000, 1024), X_unlabeled shape: (9000, 1024)
+y_train shape: (1000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5815, 'test_precision': 0.5730941704035875, 'test_recall': 0.639, 'test_f1_score': 0.6042553191489362, 'training_time': 519.1838653087616}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.583, 'test_precision': 0.5774253731343284, 'test_recall': 0.619, 'test_f1_score': 0.5974903474903476, 'training_time': 553.652881860733}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5505, 'test_precision': 0.5893805309734513, 'test_recall': 0.333, 'test_f1_score': 0.42555910543130987, 'training_time': 544.3625500202179}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.579, 'test_precision': 0.5992462311557789, 'test_recall': 0.477, 'test_f1_score': 0.5311804008908686, 'training_time': 555.2770903110504}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.562, 'test_precision': 0.5579439252336449, 'test_recall': 0.597, 'test_f1_score': 0.5768115942028985, 'training_time': 557.7292578220367}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5885, 'test_precision': 0.5821727019498607, 'test_recall': 0.627, 'test_f1_score': 0.6037554164660568, 'training_time': 547.40980052948}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1200, 32, 32, 1), X_unlabeled shape: (8800, 32, 32, 1)
+y_labeled shape: (1200, 1)
+Training model
+X_train shape: (1200, 1024), X_unlabeled shape: (8800, 1024)
+y_train shape: (1200,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.564, 'test_precision': 0.5837696335078534, 'test_recall': 0.446, 'test_f1_score': 0.5056689342403627, 'training_time': 549.8462760448456}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.572, 'test_precision': 0.5983606557377049, 'test_recall': 0.438, 'test_f1_score': 0.5057736720554272, 'training_time': 588.0223391056061}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.585, 'test_precision': 0.6, 'test_recall': 0.51, 'test_f1_score': 0.5513513513513514, 'training_time': 587.9533336162567}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.599, 'test_precision': 0.6402266288951841, 'test_recall': 0.452, 'test_f1_score': 0.52989449003517, 'training_time': 590.6657328605652}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6045, 'test_precision': 0.6490727532097005, 'test_recall': 0.455, 'test_f1_score': 0.5349794238683128, 'training_time': 598.8095707893372}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5645, 'test_precision': 0.6277227722772277, 'test_recall': 0.317, 'test_f1_score': 0.4212624584717608, 'training_time': 604.747328042984}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (1500, 32, 32, 1), X_unlabeled shape: (8500, 32, 32, 1)
+y_labeled shape: (1500, 1)
+Training model
+X_train shape: (1500, 1024), X_unlabeled shape: (8500, 1024)
+y_train shape: (1500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.615, 'test_precision': 0.625, 'test_recall': 0.575, 'test_f1_score': 0.5989583333333334, 'training_time': 586.184520483017}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.606, 'test_precision': 0.6, 'test_recall': 0.636, 'test_f1_score': 0.6174757281553398, 'training_time': 667.0324401855469}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.612, 'test_precision': 0.6133603238866396, 'test_recall': 0.606, 'test_f1_score': 0.6096579476861166, 'training_time': 660.7840819358826}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.6105, 'test_precision': 0.6245772266065389, 'test_recall': 0.554, 'test_f1_score': 0.5871754107048225, 'training_time': 663.4290399551392}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.5945, 'test_precision': 0.6151035322777101, 'test_recall': 0.505, 'test_f1_score': 0.5546403075233387, 'training_time': 646.9125754833221}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.594, 'test_precision': 0.6180904522613065, 'test_recall': 0.492, 'test_f1_score': 0.5478841870824053, 'training_time': 648.6764080524445}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (2000, 32, 32, 1), X_unlabeled shape: (8000, 32, 32, 1)
+y_labeled shape: (2000, 1)
+Training model
+X_train shape: (2000, 1024), X_unlabeled shape: (8000, 1024)
+y_train shape: (2000,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.589, 'test_precision': 0.6052009456264775, 'test_recall': 0.512, 'test_f1_score': 0.5547128927410618, 'training_time': 657.1478862762451}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (2500, 32, 32, 1), X_unlabeled shape: (7500, 32, 32, 1)
+y_labeled shape: (2500, 1)
+Training model
+X_train shape: (2500, 1024), X_unlabeled shape: (7500, 1024)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.633, 'test_precision': 0.6436285097192225, 'test_recall': 0.596, 'test_f1_score': 0.6188992731048806, 'training_time': 718.9627599716187}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (2500, 32, 32, 1), X_unlabeled shape: (7500, 32, 32, 1)
+y_labeled shape: (2500, 1)
+Training model
+X_train shape: (2500, 1024), X_unlabeled shape: (7500, 1024)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: {'test_accuracy': 0.628, 'test_precision': 0.6274900398406374, 'test_recall': 0.63, 'test_f1_score': 0.6287425149700598, 'training_time': 711.5076189041138}
+
+Alghoritm: Assemble
+Dataset: cifar10
+X_labeled shape: (2500, 32, 32, 1), X_unlabeled shape: (7500, 32, 32, 1)
+y_labeled shape: (2500, 1)
+Training model
+X_train shape: (2500, 1024), X_unlabeled shape: (7500, 1024)
+y_train shape: (2500,)
+Evaluating model on train data
+Evaluating model on transductive data
+Evaluating model on test data
+cifar10 Results: 
