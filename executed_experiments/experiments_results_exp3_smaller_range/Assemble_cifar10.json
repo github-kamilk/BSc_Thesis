@@ -5723,4 +5723,129 @@
         "test_f1_score": 0.6185770750988142,
         "training_time": 775.7895240783691
     }
+}{
+    "date": "2023-12-29 22:42:22",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'T': 50}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.569,
+        "transductive_precision": 0.572938689217759,
+        "transductive_recall": 0.542,
+        "transductive_f1_score": 0.5570400822199384
+    },
+    "results_test": {
+        "test_accuracy": 0.6195,
+        "test_precision": 0.6394399066511085,
+        "test_recall": 0.548,
+        "test_f1_score": 0.5901992460958536,
+        "training_time": 774.9068038463593
+    }
+}{
+    "date": "2023-12-29 22:55:39",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'T': 50}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5684285714285714,
+        "transductive_precision": 0.5696828629618854,
+        "transductive_recall": 0.5594285714285714,
+        "transductive_f1_score": 0.5645091538128874
+    },
+    "results_test": {
+        "test_accuracy": 0.644,
+        "test_precision": 0.6506276150627615,
+        "test_recall": 0.622,
+        "test_f1_score": 0.6359918200408997,
+        "training_time": 776.1135406494141
+    }
+}{
+    "date": "2023-12-29 23:09:05",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'T': 50}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5644285714285714,
+        "transductive_precision": 0.5674947620472912,
+        "transductive_recall": 0.5417142857142857,
+        "transductive_f1_score": 0.5543049261803831
+    },
+    "results_test": {
+        "test_accuracy": 0.617,
+        "test_precision": 0.6226415094339622,
+        "test_recall": 0.594,
+        "test_f1_score": 0.607983623336745,
+        "training_time": 784.3807339668274
+    }
+}{
+    "date": "2023-12-29 23:22:27",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'T': 50}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5614285714285714,
+        "transductive_precision": 0.5581709956709957,
+        "transductive_recall": 0.5894285714285714,
+        "transductive_f1_score": 0.5733740967204002
+    },
+    "results_test": {
+        "test_accuracy": 0.5995,
+        "test_precision": 0.5849701110162254,
+        "test_recall": 0.685,
+        "test_f1_score": 0.6310456011054815,
+        "training_time": 779.7453398704529
+    }
+}{
+    "date": "2023-12-29 23:35:43",
+    "algorithm": "Assemble",
+    "dataset": "cifar10",
+    "labeled_size": 0.3,
+    "hyperparameters": "{'base_estimator': RandomForestClassifier(), 'T': 50}",
+    "results_train": {
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1_score": 1.0
+    },
+    "results_transductive": {
+        "transductive_accuracy": 0.5644285714285714,
+        "transductive_precision": 0.5633961203261175,
+        "transductive_recall": 0.5725714285714286,
+        "transductive_f1_score": 0.5679467195692222
+    },
+    "results_test": {
+        "test_accuracy": 0.631,
+        "test_precision": 0.61996336996337,
+        "test_recall": 0.677,
+        "test_f1_score": 0.6472275334608031,
+        "training_time": 774.9655818939209
+    }
 }
