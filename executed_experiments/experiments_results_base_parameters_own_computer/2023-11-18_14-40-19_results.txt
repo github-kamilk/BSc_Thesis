@@ -1,7 +1,0 @@
-Alghoritm: TSVM
-Dataset: imdb
-X_labeled shape: (30, 1000), X_unlabeled shape: (70, 1000)
-y_labeled shape: (30,)
-Training model
-X_train shape: (30, 1000), X_unlabeled shape: (70, 1000)
-y_train shape: (30,)
